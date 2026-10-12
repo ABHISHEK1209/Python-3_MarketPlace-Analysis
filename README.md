@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Operational%20Analytics-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-teal)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 An end-to-end operational analytics framework designed to diagnose micro-hub warehouse fulfillment, courier dispatch friction, weather sensitivity, driver idle-time loss, and customer support escalation across 1,000 marketplace dispatches.
 
@@ -76,17 +76,3 @@ The synthetic dataset (`marketplace_operations.csv`) contains 1,000 multi-hub fu
 5. **Establish Proactive Support Ticket Deflection:** Late deliveries paired with return requests escalate to expensive live support agents in 88% of cases. Deploy automated deflection: if telematics detects an SLA breach >10 minutes, proactively push an in-app apology credit before the customer files a complaint.
 
 ---
-
-## Repository Structure
-
-```text
-├── data/
-│   └── marketplace_operations.csv              # Generated 1,000-dispatch clean dataset
-├── scripts/
-│   ├── generate_marketplace_data.py            # Telemetry dataset generator
-│   └── run_marketplace_analytics.py            # Complete analytics suite and visualizations
-├── notebooks/
-│   └── marketplace_fulfillment_analysis.ipynb  # Interactive walkthrough of all 10 analyses
-├── docs/
-│   └── operations_brief.md                     # Comprehensive operational findings and inferences
-└── README.md                                   # Project documentation
