@@ -1,0 +1,1001 @@
+order_id,city_hub,product_category,delivery_type,fleet_type,weather,package_weight_kg,driver_idle_prior_min,pick_pack_time_min,transit_time_min,total_delivery_time_min,delivery_sla_min,is_sla_breached,customer_rating,ticket_escalated,return_requested
+ORD-50000,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Clear,2.84,41.9,36.0,103.1,139.1,240,0,4,1,0
+ORD-50001,Suburban-West,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,4.49,13.2,7.6,12.3,19.9,30,0,4,1,0
+ORD-50002,Suburban-East,Beauty & Care,Same-Day,Gig Contractor,Clear,5.38,35.7,29.9,114.6,144.5,240,0,5,0,0
+ORD-50003,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,11.73,4.4,6.4,11.9,18.3,30,0,4,0,0
+ORD-50004,Metro-North,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,9.73,29.6,138.7,1482.6,1621.3,2880,0,3,1,0
+ORD-50005,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,8.9,37.5,47.6,146.3,193.9,240,0,4,0,0
+ORD-50006,Metro-North,Apparel,Standard 2-Day,Dedicated 3PL,Clear,6.54,88.9,125.6,1212.7,1338.3,2880,0,4,0,0
+ORD-50007,Suburban-West,Consumer Electronics,Instant (15-30m),Gig Contractor,Extreme Heat,10.11,7.5,8.6,12.0,20.6,30,0,3,0,0
+ORD-50008,Metro-South,Home & Kitchen,Standard 2-Day,In-House Fleet,Clear,4.2,82.4,80.3,918.1,998.4,2880,0,5,0,0
+ORD-50009,Suburban-East,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,8.57,32.5,32.0,122.4,154.4,240,0,4,0,0
+ORD-50010,Metro-North,Apparel,Instant (15-30m),Dedicated 3PL,Clear,11.93,16.2,9.0,10.4,19.4,30,0,5,0,0
+ORD-50011,Suburban-West,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Extreme Heat,3.91,3.3,4.9,24.7,29.6,30,0,5,0,0
+ORD-50012,Suburban-East,Beauty & Care,Same-Day,In-House Fleet,Clear,8.15,17.0,45.2,41.4,86.6,240,0,5,0,0
+ORD-50013,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,10.16,44.4,31.4,137.8,169.2,240,0,4,0,0
+ORD-50014,Metro-North,Apparel,Standard 2-Day,In-House Fleet,Clear,11.01,60.5,94.1,1369.2,1463.3,2880,0,5,0,1
+ORD-50015,Metro-North,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,8.67,13.5,6.4,16.3,22.7,30,0,3,0,0
+ORD-50016,Metro-North,Apparel,Instant (15-30m),Dedicated 3PL,Rain/Storm,3.55,5.0,2.0,24.1,26.1,30,0,4,0,0
+ORD-50017,Metro-South,Beauty & Care,Same-Day,Dedicated 3PL,Rain/Storm,4.05,12.9,49.4,221.4,270.8,240,1,1,1,0
+ORD-50018,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,0.44,17.0,5.3,5.0,10.3,30,0,5,0,0
+ORD-50019,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,9.18,20.6,21.8,114.9,136.7,240,0,3,0,0
+ORD-50020,Metro-South,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,0.7,22.0,109.7,1119.0,1228.7,2880,0,5,0,0
+ORD-50021,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Extreme Heat,10.4,41.5,100.6,2099.0,2199.6,2880,0,5,0,0
+ORD-50022,Metro-North,Apparel,Standard 2-Day,Dedicated 3PL,Extreme Heat,1.6,20.3,136.4,1533.3,1669.7,2880,0,4,1,0
+ORD-50023,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,2.23,35.4,117.6,1295.0,1412.6,2880,0,5,0,0
+ORD-50024,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,5.82,3.6,10.3,28.5,38.8,30,1,1,0,0
+ORD-50025,Suburban-East,Apparel,Same-Day,Gig Contractor,Rain/Storm,8.91,20.5,43.8,137.4,181.2,240,0,4,0,0
+ORD-50026,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Clear,1.84,32.8,37.9,118.3,156.2,240,0,5,1,0
+ORD-50027,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,5.39,63.7,147.6,1478.9,1626.5,2880,0,4,1,0
+ORD-50028,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,5.9,3.6,8.2,10.3,18.5,30,0,3,0,0
+ORD-50029,Metro-North,Fresh & Grocery,Same-Day,In-House Fleet,Rain/Storm,2.7,38.5,27.1,136.2,163.3,240,0,4,0,0
+ORD-50030,Metro-South,Apparel,Instant (15-30m),Dedicated 3PL,Extreme Heat,1.56,8.7,8.7,10.5,19.2,30,0,5,0,0
+ORD-50031,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Rain/Storm,10.07,27.6,40.6,176.5,217.1,240,0,4,0,1
+ORD-50032,Metro-North,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Rain/Storm,6.13,43.9,142.9,1665.5,1808.4,2880,0,5,0,0
+ORD-50033,Suburban-West,Home & Kitchen,Standard 2-Day,In-House Fleet,Clear,0.37,28.8,138.7,1705.0,1843.7,2880,0,5,0,0
+ORD-50034,Suburban-West,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Rain/Storm,9.68,15.9,9.6,30.5,40.1,30,1,1,1,0
+ORD-50035,Suburban-East,Beauty & Care,Standard 2-Day,Gig Contractor,Rain/Storm,11.77,60.9,188.7,2167.9,2356.6,2880,0,4,1,0
+ORD-50036,Metro-North,Apparel,Same-Day,In-House Fleet,Clear,7.35,17.2,41.2,125.2,166.4,240,0,5,0,0
+ORD-50037,Metro-North,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,6.14,6.9,10.5,18.7,29.2,30,0,4,1,0
+ORD-50038,Suburban-East,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,10.57,4.2,9.5,22.8,32.3,30,1,1,1,1
+ORD-50039,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,11.44,16.5,9.1,16.6,25.7,30,0,5,1,0
+ORD-50040,Metro-North,Apparel,Instant (15-30m),Dedicated 3PL,Rain/Storm,9.1,15.0,12.4,16.5,28.9,30,0,4,0,1
+ORD-50041,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,5.46,28.2,105.6,865.0,970.6,2880,0,5,0,0
+ORD-50042,Metro-North,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,7.19,22.6,12.9,107.8,120.7,240,0,5,0,0
+ORD-50043,Suburban-West,Home & Kitchen,Standard 2-Day,Gig Contractor,Rain/Storm,8.47,43.7,181.6,1661.6,1843.2,2880,0,3,0,0
+ORD-50044,Metro-North,Beauty & Care,Instant (15-30m),In-House Fleet,Clear,2.49,16.8,8.3,17.3,25.6,30,0,5,0,0
+ORD-50045,Suburban-East,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,5.48,14.6,9.0,16.2,25.2,30,0,4,0,0
+ORD-50046,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,9.99,34.1,20.7,112.2,132.9,240,0,5,0,0
+ORD-50047,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,7.93,7.9,12.2,13.4,25.6,30,0,4,0,0
+ORD-50048,Metro-South,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,5.05,12.7,44.5,92.3,136.8,240,0,5,0,0
+ORD-50049,Metro-North,Beauty & Care,Standard 2-Day,Dedicated 3PL,Extreme Heat,8.03,86.2,155.0,1222.7,1377.7,2880,0,5,0,0
+ORD-50050,Suburban-West,Apparel,Same-Day,Dedicated 3PL,Clear,1.6,16.4,40.5,148.9,189.4,240,0,5,0,1
+ORD-50051,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Extreme Heat,4.94,28.2,25.2,101.7,126.9,240,0,4,0,0
+ORD-50052,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Extreme Heat,9.56,7.8,11.9,20.7,32.6,30,1,1,1,0
+ORD-50053,Suburban-West,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,2.8,3.6,2.0,13.9,15.9,30,0,5,0,0
+ORD-50054,Metro-South,Apparel,Instant (15-30m),Dedicated 3PL,Clear,2.39,15.6,7.4,11.7,19.1,30,0,5,0,0
+ORD-50055,Suburban-West,Apparel,Same-Day,Gig Contractor,Clear,11.42,33.3,37.2,91.6,128.8,240,0,4,0,1
+ORD-50056,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,2.68,12.6,10.4,8.4,18.8,30,0,5,1,0
+ORD-50057,Metro-North,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,3.28,17.7,2.9,27.8,30.7,30,1,2,1,0
+ORD-50058,Metro-North,Beauty & Care,Same-Day,In-House Fleet,Clear,11.64,16.1,40.2,90.7,130.9,240,0,5,0,0
+ORD-50059,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,8.87,17.9,9.6,12.1,21.7,30,0,5,0,0
+ORD-50060,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,8.46,11.5,4.5,14.8,19.3,30,0,5,0,0
+ORD-50061,Metro-North,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,10.26,5.4,5.9,9.0,14.9,30,0,5,1,0
+ORD-50062,Suburban-East,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Clear,1.57,70.6,55.4,1635.7,1691.1,2880,0,5,0,0
+ORD-50063,Metro-South,Beauty & Care,Same-Day,Gig Contractor,Extreme Heat,8.53,10.5,21.1,112.4,133.5,240,0,4,1,0
+ORD-50064,Metro-North,Consumer Electronics,Same-Day,In-House Fleet,Clear,6.14,19.2,35.5,149.1,184.6,240,0,5,0,0
+ORD-50065,Metro-South,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,9.98,13.2,10.6,12.7,23.3,30,0,5,0,0
+ORD-50066,Metro-North,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,6.2,59.6,125.3,877.6,1002.9,2880,0,3,0,0
+ORD-50067,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,7.52,23.3,54.8,146.5,201.3,240,0,3,0,0
+ORD-50068,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Extreme Heat,5.84,10.5,7.5,14.3,21.8,30,0,5,1,0
+ORD-50069,Suburban-West,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Rain/Storm,5.84,31.1,151.1,1857.6,2008.7,2880,0,4,0,0
+ORD-50070,Suburban-East,Consumer Electronics,Instant (15-30m),Gig Contractor,Extreme Heat,9.26,6.3,5.2,21.2,26.4,30,0,5,0,0
+ORD-50071,Metro-North,Apparel,Same-Day,Dedicated 3PL,Clear,7.62,10.4,30.8,106.6,137.4,240,0,3,0,0
+ORD-50072,Metro-North,Consumer Electronics,Same-Day,Dedicated 3PL,Rain/Storm,7.67,14.0,29.0,113.1,142.1,240,0,4,1,0
+ORD-50073,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,5.51,10.8,9.0,28.5,37.5,30,1,1,1,0
+ORD-50074,Suburban-East,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,6.47,85.9,145.3,1313.8,1459.1,2880,0,5,0,0
+ORD-50075,Suburban-East,Consumer Electronics,Same-Day,In-House Fleet,Extreme Heat,9.0,31.2,40.8,175.0,215.8,240,0,5,0,0
+ORD-50076,Suburban-East,Consumer Electronics,Same-Day,Gig Contractor,Clear,9.95,23.4,27.7,120.4,148.1,240,0,4,0,0
+ORD-50077,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,8.42,7.5,5.9,16.4,22.3,30,0,5,0,0
+ORD-50078,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,11.1,13.5,10.5,9.9,20.4,30,0,4,1,0
+ORD-50079,Metro-North,Apparel,Instant (15-30m),In-House Fleet,Clear,9.88,5.5,8.1,15.1,23.2,30,0,5,0,1
+ORD-50080,Suburban-West,Home & Kitchen,Standard 2-Day,In-House Fleet,Rain/Storm,6.83,79.4,187.6,1213.5,1401.1,2880,0,5,0,0
+ORD-50081,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,8.12,5.9,5.2,9.5,14.7,30,0,5,0,1
+ORD-50082,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,11.13,22.6,46.4,150.6,197.0,240,0,3,0,0
+ORD-50083,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,7.51,33.9,22.7,153.7,176.4,240,0,5,0,0
+ORD-50084,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,9.93,9.3,5.0,16.8,21.8,30,0,3,0,0
+ORD-50085,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,8.33,33.3,38.5,126.9,165.4,240,0,4,0,0
+ORD-50086,Suburban-East,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,6.71,16.0,9.2,18.3,27.5,30,0,4,0,0
+ORD-50087,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Extreme Heat,3.05,51.3,109.9,2032.0,2141.9,2880,0,5,0,0
+ORD-50088,Suburban-West,Consumer Electronics,Same-Day,Dedicated 3PL,Rain/Storm,5.23,41.7,45.7,145.9,191.6,240,0,5,0,0
+ORD-50089,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,11.62,10.6,9.3,21.9,31.2,30,1,1,0,0
+ORD-50090,Metro-North,Home & Kitchen,Instant (15-30m),In-House Fleet,Rain/Storm,7.96,13.2,10.4,13.2,23.6,30,0,5,0,0
+ORD-50091,Suburban-East,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,6.86,41.2,52.2,217.2,269.4,240,1,2,1,0
+ORD-50092,Suburban-East,Apparel,Standard 2-Day,Gig Contractor,Rain/Storm,11.21,49.9,167.9,1679.0,1846.9,2880,0,5,0,0
+ORD-50093,Metro-South,Beauty & Care,Same-Day,Gig Contractor,Clear,7.12,29.7,33.2,86.6,119.8,240,0,5,0,0
+ORD-50094,Suburban-East,Beauty & Care,Same-Day,Dedicated 3PL,Clear,6.41,37.9,52.3,56.5,108.8,240,0,5,0,0
+ORD-50095,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,9.16,9.2,6.9,16.1,23.0,30,0,4,0,0
+ORD-50096,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,8.61,4.9,6.6,13.3,19.9,30,0,4,0,0
+ORD-50097,Metro-South,Home & Kitchen,Instant (15-30m),In-House Fleet,Clear,2.48,7.0,10.1,19.3,29.4,30,0,5,0,0
+ORD-50098,Metro-North,Fresh & Grocery,Same-Day,Gig Contractor,Clear,5.76,35.6,26.1,125.8,151.9,240,0,4,0,0
+ORD-50099,Metro-North,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,5.78,37.7,140.0,1166.8,1306.8,2880,0,5,1,0
+ORD-50100,Metro-North,Apparel,Same-Day,Dedicated 3PL,Clear,4.66,43.4,23.9,165.7,189.6,240,0,5,0,0
+ORD-50101,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,6.3,6.0,10.0,9.8,19.8,30,0,4,0,0
+ORD-50102,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,5.07,31.1,20.6,139.4,160.0,240,0,3,1,1
+ORD-50103,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,2.55,24.4,208.6,1393.7,1602.3,2880,0,5,0,0
+ORD-50104,Suburban-West,Fresh & Grocery,Same-Day,Gig Contractor,Clear,5.07,39.8,54.0,116.3,170.3,240,0,4,0,0
+ORD-50105,Metro-North,Home & Kitchen,Standard 2-Day,Gig Contractor,Rain/Storm,1.05,51.4,102.1,2181.3,2283.4,2880,0,5,0,0
+ORD-50106,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,6.99,11.1,9.6,22.8,32.4,30,1,2,0,0
+ORD-50107,Suburban-East,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,10.27,17.6,5.9,9.9,15.8,30,0,4,0,0
+ORD-50108,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Rain/Storm,8.76,39.4,125.4,2017.3,2142.7,2880,0,3,0,0
+ORD-50109,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,4.45,41.2,24.4,56.9,81.3,240,0,4,0,0
+ORD-50110,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,1.23,17.8,9.5,24.6,34.1,30,1,3,1,0
+ORD-50111,Metro-North,Fresh & Grocery,Same-Day,Gig Contractor,Clear,2.59,19.8,39.9,67.8,107.7,240,0,4,0,0
+ORD-50112,Suburban-West,Apparel,Standard 2-Day,In-House Fleet,Clear,6.64,34.7,167.2,1613.6,1780.8,2880,0,5,0,0
+ORD-50113,Suburban-East,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,2.64,33.7,40.7,118.9,159.6,240,0,5,0,0
+ORD-50114,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,6.62,40.0,32.8,100.2,133.0,240,0,4,1,0
+ORD-50115,Suburban-West,Consumer Electronics,Instant (15-30m),In-House Fleet,Extreme Heat,2.93,3.9,8.0,23.7,31.7,30,1,2,1,0
+ORD-50116,Suburban-East,Consumer Electronics,Same-Day,Gig Contractor,Clear,10.22,28.2,15.7,140.9,156.6,240,0,5,0,0
+ORD-50117,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,4.89,36.3,43.0,94.5,137.5,240,0,4,0,0
+ORD-50118,Suburban-West,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Clear,3.1,20.1,135.4,874.9,1010.3,2880,0,4,0,0
+ORD-50119,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,9.79,67.4,68.0,1897.5,1965.5,2880,0,4,0,0
+ORD-50120,Suburban-East,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,4.25,72.3,75.1,1778.1,1853.2,2880,0,5,0,0
+ORD-50121,Suburban-West,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,1.52,15.4,8.5,16.3,24.8,30,0,3,0,0
+ORD-50122,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Rain/Storm,6.93,41.9,64.7,163.6,228.3,240,0,5,0,0
+ORD-50123,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,7.06,40.1,164.2,1123.0,1287.2,2880,0,4,0,0
+ORD-50124,Metro-North,Home & Kitchen,Same-Day,In-House Fleet,Clear,8.63,26.9,44.1,165.8,209.9,240,0,4,0,1
+ORD-50125,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Clear,3.03,51.2,130.6,1460.8,1591.4,2880,0,5,0,1
+ORD-50126,Suburban-East,Consumer Electronics,Standard 2-Day,In-House Fleet,Clear,5.44,38.1,29.4,2018.7,2048.1,2880,0,5,0,0
+ORD-50127,Suburban-West,Beauty & Care,Same-Day,Dedicated 3PL,Rain/Storm,3.53,33.5,33.4,167.7,201.1,240,0,5,0,0
+ORD-50128,Metro-North,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,1.16,20.7,21.6,109.6,131.2,240,0,5,0,0
+ORD-50129,Metro-South,Apparel,Instant (15-30m),Dedicated 3PL,Clear,10.54,8.2,7.1,15.1,22.2,30,0,5,0,0
+ORD-50130,Metro-South,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,8.8,17.2,9.9,16.4,26.3,30,0,3,0,0
+ORD-50131,Metro-North,Apparel,Same-Day,Gig Contractor,Rain/Storm,3.76,33.7,33.7,101.0,134.7,240,0,4,0,0
+ORD-50132,Metro-North,Apparel,Standard 2-Day,Gig Contractor,Clear,7.27,38.4,119.8,1131.9,1251.7,2880,0,5,0,0
+ORD-50133,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,2.57,9.6,4.6,14.5,19.1,30,0,4,0,0
+ORD-50134,Suburban-West,Fresh & Grocery,Instant (15-30m),In-House Fleet,Rain/Storm,10.7,4.0,5.8,22.1,27.9,30,0,5,0,0
+ORD-50135,Metro-North,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,1.56,37.9,30.6,156.6,187.2,240,0,4,1,0
+ORD-50136,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,0.25,7.2,12.9,18.4,31.3,30,1,2,0,1
+ORD-50137,Suburban-East,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,6.12,12.1,10.0,29.9,39.9,30,1,2,0,1
+ORD-50138,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,7.08,14.3,9.4,14.2,23.6,30,0,3,0,0
+ORD-50139,Suburban-West,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,7.03,13.2,4.0,12.1,16.1,30,0,4,0,0
+ORD-50140,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,0.84,7.3,3.9,12.8,16.7,30,0,5,0,0
+ORD-50141,Metro-North,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,3.91,7.6,4.1,23.3,27.4,30,0,3,1,0
+ORD-50142,Metro-South,Apparel,Same-Day,In-House Fleet,Extreme Heat,6.09,37.9,45.9,122.4,168.3,240,0,4,0,1
+ORD-50143,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,2.76,50.7,119.2,760.9,880.1,2880,0,4,0,1
+ORD-50144,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,10.5,18.5,39.8,96.0,135.8,240,0,5,0,0
+ORD-50145,Metro-North,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,1.23,11.2,43.8,181.8,225.6,240,0,5,0,1
+ORD-50146,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,5.95,10.1,10.8,16.8,27.6,30,0,3,1,0
+ORD-50147,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,8.36,13.6,9.1,11.3,20.4,30,0,4,0,0
+ORD-50148,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,3.29,37.6,39.1,103.4,142.5,240,0,5,0,0
+ORD-50149,Metro-North,Consumer Electronics,Instant (15-30m),In-House Fleet,Clear,7.57,14.2,7.6,21.0,28.6,30,0,5,0,0
+ORD-50150,Suburban-West,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,9.99,16.1,69.8,183.8,253.6,240,1,4,1,0
+ORD-50151,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,2.45,12.2,34.3,145.5,179.8,240,0,5,0,1
+ORD-50152,Metro-North,Apparel,Same-Day,In-House Fleet,Clear,11.02,29.6,35.4,133.6,169.0,240,0,5,0,1
+ORD-50153,Metro-South,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,6.73,15.1,8.2,6.8,15.0,30,0,3,0,0
+ORD-50154,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Clear,3.73,5.1,10.0,7.5,17.5,30,0,4,0,0
+ORD-50155,Metro-North,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,5.28,37.2,28.2,73.9,102.1,240,0,5,0,0
+ORD-50156,Suburban-East,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,3.88,4.9,3.7,11.3,15.0,30,0,4,0,0
+ORD-50157,Suburban-East,Beauty & Care,Same-Day,Dedicated 3PL,Clear,8.76,13.5,31.3,110.2,141.5,240,0,5,0,0
+ORD-50158,Metro-North,Fresh & Grocery,Same-Day,Dedicated 3PL,Extreme Heat,9.6,38.6,49.6,137.9,187.5,240,0,5,0,0
+ORD-50159,Suburban-East,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Clear,10.03,76.5,125.5,1274.3,1399.8,2880,0,5,1,0
+ORD-50160,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,11.83,15.1,8.4,19.3,27.7,30,0,5,0,0
+ORD-50161,Metro-South,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Clear,9.54,24.2,91.1,1631.0,1722.1,2880,0,5,0,0
+ORD-50162,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,7.3,23.6,49.0,143.6,192.6,240,0,4,0,0
+ORD-50163,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,4.2,13.1,6.7,20.0,26.7,30,0,4,0,0
+ORD-50164,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,6.63,10.7,10.4,20.3,30.7,30,1,1,0,0
+ORD-50165,Suburban-East,Apparel,Same-Day,Gig Contractor,Extreme Heat,0.68,39.9,9.6,138.4,148.0,240,0,4,0,0
+ORD-50166,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,8.99,10.6,5.8,17.2,23.0,30,0,5,0,0
+ORD-50167,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,5.46,16.1,4.8,13.0,17.8,30,0,5,0,0
+ORD-50168,Metro-North,Beauty & Care,Instant (15-30m),In-House Fleet,Clear,0.44,7.6,5.5,21.7,27.2,30,0,4,0,0
+ORD-50169,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,0.94,43.0,89.8,1768.4,1858.2,2880,0,4,0,0
+ORD-50170,Suburban-East,Beauty & Care,Standard 2-Day,Gig Contractor,Rain/Storm,4.77,22.1,213.9,1836.3,2050.2,2880,0,3,1,0
+ORD-50171,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,7.08,33.1,34.4,156.9,191.3,240,0,5,0,0
+ORD-50172,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,5.68,4.7,7.7,24.2,31.9,30,1,1,0,0
+ORD-50173,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,7.51,15.9,15.0,20.2,35.2,30,1,2,0,0
+ORD-50174,Metro-South,Beauty & Care,Same-Day,In-House Fleet,Clear,5.87,38.0,21.7,94.5,116.2,240,0,4,0,1
+ORD-50175,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,8.01,36.4,22.6,165.7,188.3,240,0,5,0,0
+ORD-50176,Suburban-East,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,2.79,5.6,8.7,17.3,26.0,30,0,5,0,0
+ORD-50177,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,1.53,19.9,23.3,166.4,189.7,240,0,5,0,0
+ORD-50178,Suburban-West,Fresh & Grocery,Standard 2-Day,In-House Fleet,Clear,7.24,23.7,76.8,1412.6,1489.4,2880,0,4,1,0
+ORD-50179,Metro-North,Apparel,Same-Day,Dedicated 3PL,Clear,5.92,20.7,48.7,101.2,149.9,240,0,5,0,1
+ORD-50180,Metro-North,Fresh & Grocery,Same-Day,In-House Fleet,Clear,0.52,40.9,33.1,108.1,141.2,240,0,4,0,0
+ORD-50181,Metro-North,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,4.69,83.6,96.6,1626.4,1723.0,2880,0,3,0,0
+ORD-50182,Suburban-West,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,1.45,7.4,6.0,33.7,39.7,30,1,1,1,0
+ORD-50183,Suburban-West,Consumer Electronics,Same-Day,Gig Contractor,Clear,6.47,34.2,32.8,150.9,183.7,240,0,5,0,0
+ORD-50184,Metro-North,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Clear,4.87,79.5,185.4,1702.7,1888.1,2880,0,4,0,0
+ORD-50185,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,7.44,13.1,5.8,14.2,20.0,30,0,5,0,0
+ORD-50186,Suburban-East,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,9.71,40.7,31.8,59.5,91.3,240,0,3,0,0
+ORD-50187,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Clear,3.74,22.2,38.4,132.1,170.5,240,0,5,0,0
+ORD-50188,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Clear,11.55,34.7,24.5,52.1,76.6,240,0,5,0,0
+ORD-50189,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,6.52,34.2,19.0,80.4,99.4,240,0,4,0,0
+ORD-50190,Metro-North,Beauty & Care,Standard 2-Day,Dedicated 3PL,Extreme Heat,7.5,37.4,130.5,1316.1,1446.6,2880,0,3,0,0
+ORD-50191,Suburban-West,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Clear,8.23,41.7,146.3,1145.1,1291.4,2880,0,5,0,0
+ORD-50192,Suburban-West,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,8.07,12.3,9.7,19.4,29.1,30,0,3,1,0
+ORD-50193,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,6.23,51.8,146.5,998.0,1144.5,2880,0,5,0,0
+ORD-50194,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,5.26,10.6,10.9,11.2,22.1,30,0,3,0,1
+ORD-50195,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,0.83,14.9,10.6,19.4,30.0,30,0,4,0,0
+ORD-50196,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,0.46,19.5,36.7,85.5,122.2,240,0,5,0,0
+ORD-50197,Suburban-West,Fresh & Grocery,Same-Day,Gig Contractor,Clear,4.42,26.1,13.8,157.0,170.8,240,0,3,0,0
+ORD-50198,Suburban-West,Home & Kitchen,Same-Day,Gig Contractor,Clear,4.14,21.8,27.2,182.9,210.1,240,0,4,0,0
+ORD-50199,Suburban-East,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,4.77,21.4,108.7,1404.3,1513.0,2880,0,5,0,0
+ORD-50200,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,1.83,10.3,42.5,203.5,246.0,240,1,1,1,0
+ORD-50201,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,8.91,19.9,41.7,195.1,236.8,240,0,3,0,0
+ORD-50202,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,10.31,3.6,7.3,23.9,31.2,30,1,1,1,0
+ORD-50203,Suburban-West,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,11.28,87.7,75.0,1664.7,1739.7,2880,0,4,0,0
+ORD-50204,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,6.01,54.0,99.3,1107.4,1206.7,2880,0,5,0,0
+ORD-50205,Metro-North,Apparel,Standard 2-Day,Dedicated 3PL,Clear,8.47,27.4,89.0,1606.8,1695.8,2880,0,5,0,0
+ORD-50206,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,10.3,3.2,5.2,10.0,15.2,30,0,5,1,0
+ORD-50207,Suburban-East,Fresh & Grocery,Instant (15-30m),Gig Contractor,Extreme Heat,5.14,11.8,11.8,17.4,29.2,30,0,3,0,1
+ORD-50208,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,3.85,14.3,5.5,21.0,26.5,30,0,5,0,0
+ORD-50209,Metro-North,Apparel,Instant (15-30m),Dedicated 3PL,Extreme Heat,11.25,10.1,9.7,24.1,33.8,30,1,2,1,0
+ORD-50210,Metro-South,Home & Kitchen,Instant (15-30m),In-House Fleet,Clear,6.28,10.6,10.1,17.4,27.5,30,0,3,0,0
+ORD-50211,Suburban-East,Apparel,Standard 2-Day,Dedicated 3PL,Rain/Storm,6.07,77.4,105.9,1506.4,1612.3,2880,0,5,0,0
+ORD-50212,Suburban-East,Beauty & Care,Same-Day,Dedicated 3PL,Rain/Storm,2.31,35.8,29.6,202.7,232.3,240,0,3,0,0
+ORD-50213,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,1.48,12.4,13.1,10.3,23.4,30,0,4,0,0
+ORD-50214,Suburban-East,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,10.14,8.3,10.7,13.3,24.0,30,0,4,0,0
+ORD-50215,Metro-North,Apparel,Instant (15-30m),Dedicated 3PL,Clear,7.45,7.9,2.4,11.2,13.6,30,0,5,0,0
+ORD-50216,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,4.04,10.1,2.0,8.9,10.9,30,0,4,0,0
+ORD-50217,Suburban-East,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,2.46,15.1,10.0,20.0,30.0,30,0,5,0,0
+ORD-50218,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,6.75,14.0,3.7,14.7,18.4,30,0,5,0,0
+ORD-50219,Suburban-East,Consumer Electronics,Standard 2-Day,In-House Fleet,Clear,7.09,54.3,111.4,1547.5,1658.9,2880,0,4,0,0
+ORD-50220,Suburban-East,Consumer Electronics,Standard 2-Day,Gig Contractor,Extreme Heat,2.64,27.2,133.8,1703.1,1836.9,2880,0,4,1,1
+ORD-50221,Metro-South,Apparel,Instant (15-30m),Dedicated 3PL,Rain/Storm,10.25,9.6,10.5,21.9,32.4,30,1,2,0,1
+ORD-50222,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Extreme Heat,1.19,29.9,36.5,169.3,205.8,240,0,4,0,1
+ORD-50223,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,4.4,82.1,92.7,1687.7,1780.4,2880,0,4,0,0
+ORD-50224,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,8.23,17.5,9.3,12.7,22.0,30,0,5,1,0
+ORD-50225,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,3.43,3.8,10.2,18.7,28.9,30,0,5,0,0
+ORD-50226,Suburban-West,Apparel,Standard 2-Day,Dedicated 3PL,Clear,9.97,78.3,97.9,836.6,934.5,2880,0,5,0,0
+ORD-50227,Metro-South,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,8.93,15.3,6.4,21.4,27.8,30,0,4,0,0
+ORD-50228,Suburban-West,Apparel,Same-Day,Gig Contractor,Clear,9.51,41.3,15.1,62.9,78.0,240,0,4,0,1
+ORD-50229,Metro-South,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,1.61,36.7,26.9,176.7,203.6,240,0,5,0,1
+ORD-50230,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,1.86,15.8,11.3,16.6,27.9,30,0,5,0,0
+ORD-50231,Metro-South,Beauty & Care,Instant (15-30m),In-House Fleet,Extreme Heat,3.58,11.2,8.7,17.1,25.8,30,0,3,0,0
+ORD-50232,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,6.31,44.4,130.2,1626.5,1756.7,2880,0,5,0,0
+ORD-50233,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,9.03,13.0,6.7,11.8,18.5,30,0,3,0,0
+ORD-50234,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,10.07,5.3,2.0,13.5,15.5,30,0,4,0,0
+ORD-50235,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Clear,8.51,14.2,35.8,130.4,166.2,240,0,4,0,0
+ORD-50236,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,11.16,17.3,20.1,169.5,189.6,240,0,5,0,0
+ORD-50237,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,8.92,11.6,7.2,14.9,22.1,30,0,5,0,1
+ORD-50238,Metro-South,Fresh & Grocery,Standard 2-Day,In-House Fleet,Clear,3.81,78.1,121.0,1052.5,1173.5,2880,0,4,0,0
+ORD-50239,Metro-North,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,3.33,13.1,8.7,11.4,20.1,30,0,5,0,0
+ORD-50240,Suburban-West,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,8.42,70.2,86.4,1559.1,1645.5,2880,0,5,0,0
+ORD-50241,Suburban-West,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,2.48,33.6,80.1,1881.4,1961.5,2880,0,5,0,0
+ORD-50242,Suburban-West,Apparel,Same-Day,Gig Contractor,Clear,1.29,34.3,25.3,121.1,146.4,240,0,5,0,0
+ORD-50243,Metro-South,Consumer Electronics,Same-Day,Gig Contractor,Extreme Heat,6.48,15.7,24.5,102.5,127.0,240,0,4,0,0
+ORD-50244,Metro-North,Apparel,Standard 2-Day,Dedicated 3PL,Rain/Storm,9.9,74.5,138.8,2700.1,2838.9,2880,0,5,0,0
+ORD-50245,Suburban-West,Fresh & Grocery,Instant (15-30m),Gig Contractor,Rain/Storm,1.4,3.4,10.8,19.5,30.3,30,1,1,0,0
+ORD-50246,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,9.54,29.6,38.5,82.7,121.2,240,0,5,0,1
+ORD-50247,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,9.78,5.3,11.9,11.7,23.6,30,0,5,0,0
+ORD-50248,Suburban-West,Beauty & Care,Instant (15-30m),In-House Fleet,Rain/Storm,5.89,8.0,5.8,45.9,51.7,30,1,1,1,0
+ORD-50249,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,0.88,7.6,8.6,5.0,13.6,30,0,5,0,0
+ORD-50250,Metro-North,Home & Kitchen,Standard 2-Day,Gig Contractor,Extreme Heat,2.26,63.1,112.8,1486.0,1598.8,2880,0,4,0,0
+ORD-50251,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,8.55,56.9,126.2,1054.0,1180.2,2880,0,5,1,0
+ORD-50252,Suburban-West,Fresh & Grocery,Instant (15-30m),Gig Contractor,Extreme Heat,8.6,5.8,5.6,21.4,27.0,30,0,4,0,0
+ORD-50253,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Extreme Heat,10.8,3.1,10.8,18.0,28.8,30,0,3,0,0
+ORD-50254,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,7.08,43.4,51.0,110.7,161.7,240,0,5,0,0
+ORD-50255,Metro-South,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,1.66,16.8,38.5,109.6,148.1,240,0,5,0,0
+ORD-50256,Suburban-West,Beauty & Care,Instant (15-30m),Gig Contractor,Extreme Heat,1.63,7.4,5.7,17.6,23.3,30,0,5,0,0
+ORD-50257,Suburban-East,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,8.71,41.6,30.4,123.3,153.7,240,0,5,0,0
+ORD-50258,Metro-South,Consumer Electronics,Same-Day,In-House Fleet,Clear,2.37,20.2,40.2,146.0,186.2,240,0,4,0,1
+ORD-50259,Metro-North,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Extreme Heat,4.07,79.8,179.3,1772.3,1951.6,2880,0,4,0,1
+ORD-50260,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,5.95,13.7,7.0,17.1,24.1,30,0,4,0,0
+ORD-50261,Suburban-West,Apparel,Same-Day,Gig Contractor,Clear,0.49,19.5,26.1,135.7,161.8,240,0,4,0,0
+ORD-50262,Metro-North,Apparel,Same-Day,Dedicated 3PL,Clear,3.14,44.0,36.7,42.9,79.6,240,0,4,0,1
+ORD-50263,Metro-South,Apparel,Standard 2-Day,Dedicated 3PL,Clear,5.01,81.9,80.5,1649.3,1729.8,2880,0,5,0,1
+ORD-50264,Suburban-West,Apparel,Same-Day,Gig Contractor,Clear,3.5,36.9,40.6,119.8,160.4,240,0,5,0,0
+ORD-50265,Suburban-East,Beauty & Care,Same-Day,Dedicated 3PL,Clear,1.81,21.4,43.0,141.0,184.0,240,0,5,0,0
+ORD-50266,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,8.79,15.7,5.6,20.7,26.3,30,0,4,0,0
+ORD-50267,Suburban-East,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,9.8,51.9,111.5,1469.6,1581.1,2880,0,5,1,0
+ORD-50268,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,3.24,20.2,44.7,177.3,222.0,240,0,5,0,0
+ORD-50269,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,9.34,17.1,4.1,14.8,18.9,30,0,5,1,0
+ORD-50270,Suburban-East,Consumer Electronics,Same-Day,Gig Contractor,Clear,4.75,28.6,46.7,120.1,166.8,240,0,4,0,0
+ORD-50271,Suburban-East,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,6.18,15.3,9.0,8.6,17.6,30,0,3,0,0
+ORD-50272,Suburban-West,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,10.3,8.1,6.0,8.3,14.3,30,0,5,0,0
+ORD-50273,Suburban-West,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,9.05,40.9,171.6,1661.6,1833.2,2880,0,4,0,0
+ORD-50274,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Clear,9.7,35.7,58.1,113.7,171.8,240,0,4,0,0
+ORD-50275,Metro-South,Apparel,Same-Day,Gig Contractor,Extreme Heat,1.81,23.4,34.0,194.1,228.1,240,0,4,0,0
+ORD-50276,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,1.02,3.7,9.7,15.6,25.3,30,0,5,0,0
+ORD-50277,Metro-South,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Clear,10.74,36.2,103.4,1752.1,1855.5,2880,0,5,0,0
+ORD-50278,Suburban-East,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,4.78,16.7,6.3,21.1,27.4,30,0,5,0,0
+ORD-50279,Suburban-East,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,3.6,12.0,8.5,17.2,25.7,30,0,4,0,0
+ORD-50280,Suburban-West,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,8.75,64.7,100.3,1390.1,1490.4,2880,0,3,0,0
+ORD-50281,Metro-North,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,10.07,26.5,140.1,1097.3,1237.4,2880,0,5,0,0
+ORD-50282,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Clear,10.38,24.2,25.0,109.2,134.2,240,0,4,0,1
+ORD-50283,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,3.93,15.6,12.1,22.1,34.2,30,1,3,0,0
+ORD-50284,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,10.26,82.6,125.7,1082.8,1208.5,2880,0,5,1,0
+ORD-50285,Metro-North,Beauty & Care,Same-Day,In-House Fleet,Clear,0.68,32.4,41.8,97.1,138.9,240,0,4,0,0
+ORD-50286,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,0.79,76.8,125.9,1684.4,1810.3,2880,0,5,0,0
+ORD-50287,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,7.56,79.5,93.6,1545.9,1639.5,2880,0,5,0,0
+ORD-50288,Metro-North,Fresh & Grocery,Instant (15-30m),In-House Fleet,Clear,0.94,3.5,10.8,9.9,20.7,30,0,5,0,0
+ORD-50289,Metro-South,Consumer Electronics,Instant (15-30m),In-House Fleet,Clear,4.03,7.8,6.4,18.6,25.0,30,0,5,0,0
+ORD-50290,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,8.14,20.2,35.4,142.4,177.8,240,0,4,0,0
+ORD-50291,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,4.18,14.1,11.7,26.5,38.2,30,1,2,1,0
+ORD-50292,Suburban-East,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,2.32,11.5,11.6,20.0,31.6,30,1,2,1,0
+ORD-50293,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,3.52,52.3,84.6,1467.1,1551.7,2880,0,5,0,0
+ORD-50294,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,5.6,11.2,29.4,128.9,158.3,240,0,5,0,0
+ORD-50295,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,5.81,26.4,107.6,1395.5,1503.1,2880,0,4,0,0
+ORD-50296,Suburban-East,Apparel,Same-Day,Gig Contractor,Clear,9.44,15.1,28.8,123.4,152.2,240,0,5,0,0
+ORD-50297,Metro-North,Beauty & Care,Same-Day,In-House Fleet,Extreme Heat,9.05,16.2,33.7,112.1,145.8,240,0,4,0,0
+ORD-50298,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,5.59,13.6,7.7,12.9,20.6,30,0,5,0,0
+ORD-50299,Metro-North,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Rain/Storm,10.18,8.1,8.9,24.6,33.5,30,1,3,1,0
+ORD-50300,Metro-North,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,1.55,5.4,9.4,24.1,33.5,30,1,2,1,0
+ORD-50301,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,3.21,3.2,6.5,15.6,22.1,30,0,5,0,0
+ORD-50302,Metro-South,Apparel,Standard 2-Day,Dedicated 3PL,Clear,9.97,66.9,214.8,1642.4,1857.2,2880,0,5,0,0
+ORD-50303,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,4.66,16.0,9.7,16.6,26.3,30,0,5,0,0
+ORD-50304,Suburban-East,Fresh & Grocery,Same-Day,Gig Contractor,Clear,11.78,21.9,39.4,150.0,189.4,240,0,5,0,0
+ORD-50305,Suburban-West,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Extreme Heat,5.7,14.2,9.8,25.0,34.8,30,1,1,0,0
+ORD-50306,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,9.54,7.3,10.3,9.1,19.4,30,0,4,0,0
+ORD-50307,Metro-North,Consumer Electronics,Same-Day,In-House Fleet,Extreme Heat,4.95,23.7,55.3,132.1,187.4,240,0,4,0,0
+ORD-50308,Suburban-East,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,5.21,7.0,5.5,18.8,24.3,30,0,5,0,0
+ORD-50309,Metro-North,Beauty & Care,Instant (15-30m),Dedicated 3PL,Rain/Storm,4.72,17.9,6.3,11.3,17.6,30,0,4,0,0
+ORD-50310,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,8.69,12.2,6.8,8.6,15.4,30,0,5,0,0
+ORD-50311,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,6.66,12.8,14.4,30.0,44.4,30,1,1,1,0
+ORD-50312,Metro-North,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,11.34,59.0,182.5,1501.9,1684.4,2880,0,5,0,0
+ORD-50313,Suburban-West,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,3.16,9.1,2.9,10.0,12.9,30,0,4,0,1
+ORD-50314,Suburban-East,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,1.39,6.1,13.2,17.8,31.0,30,1,4,0,0
+ORD-50315,Suburban-East,Home & Kitchen,Same-Day,Dedicated 3PL,Rain/Storm,4.84,35.5,23.6,142.2,165.8,240,0,4,0,0
+ORD-50316,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,7.48,3.5,9.2,14.2,23.4,30,0,5,1,0
+ORD-50317,Metro-North,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Rain/Storm,10.36,55.9,165.1,1687.3,1852.4,2880,0,4,0,0
+ORD-50318,Metro-North,Apparel,Same-Day,Dedicated 3PL,Clear,4.29,24.3,43.0,130.1,173.1,240,0,4,1,0
+ORD-50319,Metro-North,Fresh & Grocery,Same-Day,Dedicated 3PL,Rain/Storm,7.91,16.4,20.8,108.7,129.5,240,0,4,0,0
+ORD-50320,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,4.33,36.2,56.0,182.0,238.0,240,0,4,0,0
+ORD-50321,Suburban-East,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Rain/Storm,7.48,6.4,9.1,19.6,28.7,30,0,4,0,0
+ORD-50322,Suburban-East,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,10.64,29.7,35.3,92.7,128.0,240,0,5,0,0
+ORD-50323,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,2.93,11.6,7.9,19.4,27.3,30,0,5,0,1
+ORD-50324,Suburban-West,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Extreme Heat,4.97,82.8,114.7,2155.2,2269.9,2880,0,5,0,0
+ORD-50325,Suburban-East,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,11.92,14.7,3.7,11.5,15.2,30,0,5,0,1
+ORD-50326,Metro-South,Consumer Electronics,Same-Day,Gig Contractor,Clear,10.45,38.4,23.8,89.3,113.1,240,0,3,0,0
+ORD-50327,Metro-South,Consumer Electronics,Same-Day,Gig Contractor,Clear,6.86,33.8,30.2,169.1,199.3,240,0,5,0,0
+ORD-50328,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,6.3,4.6,15.5,18.8,34.3,30,1,1,0,1
+ORD-50329,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,3.56,12.5,5.1,10.3,15.4,30,0,4,0,0
+ORD-50330,Metro-South,Beauty & Care,Same-Day,Dedicated 3PL,Clear,6.3,21.3,37.6,105.9,143.5,240,0,5,1,0
+ORD-50331,Suburban-East,Apparel,Standard 2-Day,Gig Contractor,Rain/Storm,10.21,89.9,125.5,1562.4,1687.9,2880,0,5,1,0
+ORD-50332,Metro-North,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,8.29,5.2,5.1,19.0,24.1,30,0,5,0,0
+ORD-50333,Metro-North,Beauty & Care,Standard 2-Day,In-House Fleet,Extreme Heat,3.62,44.2,142.0,1906.9,2048.9,2880,0,4,1,0
+ORD-50334,Metro-North,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,2.58,84.0,140.0,1549.4,1689.4,2880,0,5,0,0
+ORD-50335,Metro-North,Beauty & Care,Standard 2-Day,In-House Fleet,Clear,3.33,38.3,136.8,1837.9,1974.7,2880,0,5,0,0
+ORD-50336,Suburban-West,Apparel,Instant (15-30m),In-House Fleet,Clear,2.2,6.5,9.6,16.8,26.4,30,0,3,0,1
+ORD-50337,Suburban-East,Apparel,Same-Day,Dedicated 3PL,Clear,1.33,10.6,24.4,67.0,91.4,240,0,4,0,0
+ORD-50338,Metro-South,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Extreme Heat,5.15,7.6,7.2,26.3,33.5,30,1,2,1,0
+ORD-50339,Metro-North,Beauty & Care,Standard 2-Day,In-House Fleet,Clear,1.54,29.6,155.3,1016.7,1172.0,2880,0,5,0,0
+ORD-50340,Metro-South,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,2.23,32.0,40.3,122.1,162.4,240,0,4,0,0
+ORD-50341,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,6.66,8.2,5.8,21.4,27.2,30,0,5,1,0
+ORD-50342,Metro-North,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,2.14,12.0,37.7,100.8,138.5,240,0,5,0,0
+ORD-50343,Metro-South,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,0.95,7.5,2.0,18.8,20.8,30,0,5,0,0
+ORD-50344,Metro-South,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Clear,3.95,43.6,96.9,1167.4,1264.3,2880,0,5,0,0
+ORD-50345,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,2.8,24.2,141.5,1558.6,1700.1,2880,0,5,0,0
+ORD-50346,Metro-South,Consumer Electronics,Same-Day,Dedicated 3PL,Rain/Storm,6.28,38.4,31.8,197.5,229.3,240,0,5,1,0
+ORD-50347,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,1.41,15.1,8.7,13.8,22.5,30,0,4,0,0
+ORD-50348,Metro-South,Home & Kitchen,Same-Day,In-House Fleet,Clear,9.07,34.7,25.3,115.4,140.7,240,0,5,0,0
+ORD-50349,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,10.89,12.6,5.2,13.5,18.7,30,0,4,0,0
+ORD-50350,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,8.97,17.1,3.5,12.9,16.4,30,0,4,1,0
+ORD-50351,Suburban-West,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,6.49,36.9,102.1,1569.2,1671.3,2880,0,4,0,1
+ORD-50352,Suburban-East,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,10.36,11.3,4.9,11.3,16.2,30,0,5,0,0
+ORD-50353,Metro-North,Apparel,Instant (15-30m),Dedicated 3PL,Clear,8.4,14.7,7.6,18.3,25.9,30,0,5,0,0
+ORD-50354,Metro-North,Apparel,Standard 2-Day,In-House Fleet,Extreme Heat,0.32,79.5,33.7,1834.5,1868.2,2880,0,4,0,0
+ORD-50355,Metro-South,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,4.85,5.0,8.8,8.5,17.3,30,0,4,0,0
+ORD-50356,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,10.24,6.7,7.8,23.7,31.5,30,1,3,0,0
+ORD-50357,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Clear,4.28,33.8,117.2,1552.7,1669.9,2880,0,5,0,1
+ORD-50358,Suburban-West,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,0.62,14.1,2.8,14.9,17.7,30,0,4,0,0
+ORD-50359,Metro-South,Consumer Electronics,Standard 2-Day,In-House Fleet,Rain/Storm,9.0,27.5,136.4,1843.9,1980.3,2880,0,4,0,1
+ORD-50360,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,9.66,59.3,214.0,1642.2,1856.2,2880,0,5,0,0
+ORD-50361,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Rain/Storm,2.1,68.4,175.8,1267.1,1442.9,2880,0,4,0,0
+ORD-50362,Metro-South,Consumer Electronics,Same-Day,Gig Contractor,Extreme Heat,6.54,29.3,30.5,128.9,159.4,240,0,5,1,0
+ORD-50363,Metro-South,Beauty & Care,Instant (15-30m),In-House Fleet,Rain/Storm,2.47,6.6,7.5,30.0,37.5,30,1,2,1,0
+ORD-50364,Suburban-West,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,8.69,10.5,8.8,13.0,21.8,30,0,5,0,0
+ORD-50365,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Rain/Storm,3.4,54.4,108.4,2966.3,3074.7,2880,1,2,0,1
+ORD-50366,Suburban-West,Apparel,Standard 2-Day,Gig Contractor,Clear,3.93,33.9,173.7,1763.8,1937.5,2880,0,4,0,0
+ORD-50367,Suburban-West,Apparel,Same-Day,In-House Fleet,Rain/Storm,10.17,10.1,35.6,191.2,226.8,240,0,4,0,0
+ORD-50368,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,5.82,8.0,4.4,16.6,21.0,30,0,4,1,1
+ORD-50369,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,8.1,6.5,7.2,24.1,31.3,30,1,1,0,0
+ORD-50370,Metro-North,Apparel,Instant (15-30m),Dedicated 3PL,Clear,4.95,13.3,9.6,25.0,34.6,30,1,1,0,1
+ORD-50371,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,3.72,25.2,49.1,105.4,154.5,240,0,5,0,0
+ORD-50372,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Clear,7.58,13.7,27.1,161.2,188.3,240,0,5,0,0
+ORD-50373,Suburban-East,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Rain/Storm,2.03,43.9,117.9,1618.7,1736.6,2880,0,4,0,0
+ORD-50374,Metro-North,Fresh & Grocery,Same-Day,In-House Fleet,Clear,4.6,10.2,30.6,164.9,195.5,240,0,4,0,0
+ORD-50375,Metro-North,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,2.67,6.8,7.6,11.1,18.7,30,0,5,1,1
+ORD-50376,Suburban-East,Fresh & Grocery,Same-Day,In-House Fleet,Rain/Storm,8.41,25.9,54.6,197.2,251.8,240,1,2,1,0
+ORD-50377,Metro-North,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,11.34,37.7,33.9,106.0,139.9,240,0,5,0,0
+ORD-50378,Suburban-East,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,11.95,17.4,31.2,95.5,126.7,240,0,5,0,0
+ORD-50379,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,5.51,30.9,34.7,117.4,152.1,240,0,5,0,0
+ORD-50380,Metro-North,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,3.18,82.0,81.0,1395.2,1476.2,2880,0,5,0,1
+ORD-50381,Suburban-East,Apparel,Standard 2-Day,In-House Fleet,Clear,5.43,32.6,130.9,1092.1,1223.0,2880,0,4,1,0
+ORD-50382,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,10.2,4.9,9.3,18.8,28.1,30,0,5,0,0
+ORD-50383,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Clear,2.63,14.8,2.9,7.4,10.3,30,0,3,0,0
+ORD-50384,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Clear,11.43,10.7,25.2,139.9,165.1,240,0,5,0,0
+ORD-50385,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,4.23,14.5,9.9,14.9,24.8,30,0,5,0,0
+ORD-50386,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,11.83,12.6,8.1,16.1,24.2,30,0,5,0,0
+ORD-50387,Metro-North,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,10.1,5.6,6.2,15.0,21.2,30,0,3,1,0
+ORD-50388,Suburban-East,Home & Kitchen,Same-Day,In-House Fleet,Extreme Heat,9.74,34.9,40.6,64.9,105.5,240,0,4,0,0
+ORD-50389,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,3.95,4.7,10.2,16.6,26.8,30,0,4,0,0
+ORD-50390,Suburban-West,Apparel,Same-Day,Gig Contractor,Clear,0.3,20.0,15.1,159.0,174.1,240,0,4,0,0
+ORD-50391,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Rain/Storm,4.71,28.7,90.1,1998.5,2088.6,2880,0,3,1,0
+ORD-50392,Metro-South,Fresh & Grocery,Instant (15-30m),In-House Fleet,Extreme Heat,3.76,15.5,9.3,17.2,26.5,30,0,5,0,0
+ORD-50393,Suburban-East,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,0.64,10.1,11.4,19.6,31.0,30,1,2,0,0
+ORD-50394,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,6.16,12.8,13.4,27.7,41.1,30,1,4,0,0
+ORD-50395,Suburban-West,Apparel,Standard 2-Day,Gig Contractor,Rain/Storm,4.96,68.2,136.4,1595.2,1731.6,2880,0,5,0,0
+ORD-50396,Suburban-West,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,7.69,10.5,5.4,11.2,16.6,30,0,4,0,0
+ORD-50397,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,7.53,15.4,7.2,22.5,29.7,30,0,5,0,0
+ORD-50398,Suburban-East,Home & Kitchen,Instant (15-30m),In-House Fleet,Clear,1.62,17.3,7.3,6.8,14.1,30,0,5,0,0
+ORD-50399,Suburban-East,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Extreme Heat,11.73,39.3,54.8,1875.9,1930.7,2880,0,5,0,0
+ORD-50400,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,2.41,22.5,36.7,125.3,162.0,240,0,5,0,0
+ORD-50401,Suburban-West,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,5.45,89.8,45.6,1495.2,1540.8,2880,0,5,0,0
+ORD-50402,Metro-South,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,5.96,31.6,108.3,1613.8,1722.1,2880,0,5,0,0
+ORD-50403,Suburban-East,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Rain/Storm,9.79,9.3,11.4,23.2,34.6,30,1,3,1,0
+ORD-50404,Metro-North,Apparel,Standard 2-Day,Gig Contractor,Clear,1.37,33.4,25.3,1371.6,1396.9,2880,0,4,0,0
+ORD-50405,Suburban-West,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Rain/Storm,5.26,3.8,9.5,20.4,29.9,30,0,5,0,0
+ORD-50406,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Rain/Storm,7.62,39.5,94.8,1569.5,1664.3,2880,0,5,0,0
+ORD-50407,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,2.74,39.5,27.0,139.0,166.0,240,0,4,0,0
+ORD-50408,Suburban-West,Beauty & Care,Standard 2-Day,Gig Contractor,Rain/Storm,7.6,64.7,146.1,2538.1,2684.2,2880,0,5,1,0
+ORD-50409,Metro-North,Beauty & Care,Instant (15-30m),In-House Fleet,Rain/Storm,11.1,4.4,10.4,22.3,32.7,30,1,1,1,1
+ORD-50410,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,11.97,13.2,8.7,18.4,27.1,30,0,5,0,0
+ORD-50411,Suburban-West,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,0.58,4.7,7.4,5.0,12.4,30,0,4,0,1
+ORD-50412,Suburban-West,Apparel,Instant (15-30m),Dedicated 3PL,Clear,2.98,3.3,9.0,13.3,22.3,30,0,5,1,0
+ORD-50413,Metro-South,Apparel,Instant (15-30m),Dedicated 3PL,Clear,3.86,8.0,7.0,19.5,26.5,30,0,4,0,1
+ORD-50414,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,4.91,12.1,8.4,21.4,29.8,30,0,5,0,0
+ORD-50415,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Extreme Heat,3.06,8.4,7.2,19.0,26.2,30,0,5,0,0
+ORD-50416,Metro-North,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,2.6,11.7,46.3,115.4,161.7,240,0,4,0,0
+ORD-50417,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Rain/Storm,11.46,31.4,105.9,1357.3,1463.2,2880,0,5,0,0
+ORD-50418,Suburban-East,Fresh & Grocery,Same-Day,Gig Contractor,Clear,11.04,34.4,34.7,90.5,125.2,240,0,5,0,0
+ORD-50419,Suburban-East,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,0.75,11.7,4.4,7.5,11.9,30,0,4,0,0
+ORD-50420,Suburban-East,Apparel,Same-Day,Gig Contractor,Rain/Storm,4.2,14.5,52.2,183.5,235.7,240,0,5,0,0
+ORD-50421,Suburban-East,Fresh & Grocery,Instant (15-30m),Gig Contractor,Rain/Storm,4.98,15.7,10.7,25.2,35.9,30,1,1,0,0
+ORD-50422,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,3.02,31.7,100.0,1343.8,1443.8,2880,0,5,0,0
+ORD-50423,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,7.62,13.0,5.5,11.6,17.1,30,0,4,0,0
+ORD-50424,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,7.76,12.8,28.3,148.3,176.6,240,0,5,0,0
+ORD-50425,Metro-South,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,10.24,32.2,117.4,1580.5,1697.9,2880,0,4,0,0
+ORD-50426,Metro-South,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Clear,8.94,66.2,89.2,1041.8,1131.0,2880,0,4,0,0
+ORD-50427,Suburban-West,Consumer Electronics,Same-Day,In-House Fleet,Clear,6.6,10.7,28.3,110.5,138.8,240,0,5,0,0
+ORD-50428,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,7.91,41.7,126.3,1825.5,1951.8,2880,0,4,0,0
+ORD-50429,Metro-North,Apparel,Standard 2-Day,Gig Contractor,Rain/Storm,3.43,20.1,88.0,1201.2,1289.2,2880,0,5,0,0
+ORD-50430,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,7.2,32.1,34.7,151.5,186.2,240,0,3,0,0
+ORD-50431,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Clear,5.97,24.8,20.4,86.5,106.9,240,0,5,0,0
+ORD-50432,Metro-South,Beauty & Care,Same-Day,In-House Fleet,Clear,1.77,13.6,57.2,125.3,182.5,240,0,5,0,0
+ORD-50433,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,3.06,38.0,52.4,179.5,231.9,240,0,4,0,0
+ORD-50434,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,3.64,41.3,21.9,153.9,175.8,240,0,5,0,0
+ORD-50435,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Clear,11.11,27.7,41.4,122.4,163.8,240,0,5,0,0
+ORD-50436,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Rain/Storm,2.92,11.3,12.9,6.4,19.3,30,0,5,0,0
+ORD-50437,Suburban-East,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,3.61,12.8,3.8,24.1,27.9,30,0,5,0,0
+ORD-50438,Suburban-East,Apparel,Instant (15-30m),Gig Contractor,Clear,4.56,10.2,7.6,11.1,18.7,30,0,5,0,0
+ORD-50439,Metro-North,Consumer Electronics,Instant (15-30m),In-House Fleet,Clear,8.03,3.1,9.2,15.9,25.1,30,0,5,0,0
+ORD-50440,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,1.6,4.0,7.8,16.1,23.9,30,0,4,0,0
+ORD-50441,Suburban-West,Consumer Electronics,Same-Day,Gig Contractor,Rain/Storm,11.46,15.2,70.0,161.7,231.7,240,0,4,0,0
+ORD-50442,Metro-South,Home & Kitchen,Instant (15-30m),In-House Fleet,Rain/Storm,10.41,9.2,13.8,15.5,29.3,30,0,5,0,0
+ORD-50443,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Clear,7.01,75.3,104.5,1406.6,1511.1,2880,0,3,0,1
+ORD-50444,Suburban-East,Beauty & Care,Instant (15-30m),In-House Fleet,Clear,8.15,16.7,6.5,15.2,21.7,30,0,4,0,0
+ORD-50445,Suburban-West,Apparel,Instant (15-30m),In-House Fleet,Clear,0.4,12.7,11.1,18.8,29.9,30,0,5,0,0
+ORD-50446,Suburban-West,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,4.2,32.3,24.2,139.8,164.0,240,0,5,0,0
+ORD-50447,Suburban-East,Apparel,Same-Day,Dedicated 3PL,Clear,9.59,12.2,41.7,134.1,175.8,240,0,3,0,0
+ORD-50448,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,1.11,13.5,9.3,20.7,30.0,30,0,2,0,0
+ORD-50449,Metro-North,Home & Kitchen,Standard 2-Day,In-House Fleet,Clear,3.53,35.0,172.8,1736.9,1909.7,2880,0,5,0,0
+ORD-50450,Suburban-East,Apparel,Standard 2-Day,Gig Contractor,Clear,7.11,88.4,121.6,1819.4,1941.0,2880,0,4,0,0
+ORD-50451,Metro-South,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,3.23,7.3,7.5,11.0,18.5,30,0,4,0,0
+ORD-50452,Metro-South,Fresh & Grocery,Instant (15-30m),In-House Fleet,Clear,11.22,10.2,11.4,19.1,30.5,30,1,4,0,0
+ORD-50453,Suburban-West,Apparel,Standard 2-Day,In-House Fleet,Rain/Storm,1.75,78.2,162.1,1625.1,1787.2,2880,0,4,0,0
+ORD-50454,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,9.61,35.8,29.6,166.8,196.4,240,0,4,0,0
+ORD-50455,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Extreme Heat,6.19,12.5,40.4,82.8,123.2,240,0,3,0,0
+ORD-50456,Metro-North,Fresh & Grocery,Standard 2-Day,In-House Fleet,Clear,9.05,57.5,100.6,1396.6,1497.2,2880,0,5,0,0
+ORD-50457,Metro-South,Beauty & Care,Instant (15-30m),Dedicated 3PL,Rain/Storm,3.87,8.3,11.9,16.5,28.4,30,0,5,0,0
+ORD-50458,Metro-North,Apparel,Same-Day,In-House Fleet,Rain/Storm,6.27,10.6,21.7,74.0,95.7,240,0,4,0,1
+ORD-50459,Metro-North,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,10.31,10.6,8.6,15.6,24.2,30,0,5,0,0
+ORD-50460,Metro-North,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,5.71,53.9,120.0,1269.4,1389.4,2880,0,4,0,0
+ORD-50461,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,4.44,29.3,29.7,145.1,174.8,240,0,5,0,0
+ORD-50462,Suburban-East,Apparel,Same-Day,Dedicated 3PL,Clear,6.53,33.3,22.9,122.3,145.2,240,0,5,1,1
+ORD-50463,Metro-South,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,8.66,4.3,4.3,20.3,24.6,30,0,5,0,0
+ORD-50464,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Clear,5.43,7.5,9.6,9.4,19.0,30,0,5,0,1
+ORD-50465,Metro-South,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,11.28,28.7,16.8,80.4,97.2,240,0,5,0,1
+ORD-50466,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,3.68,20.8,41.7,153.7,195.4,240,0,4,0,0
+ORD-50467,Suburban-West,Beauty & Care,Same-Day,Dedicated 3PL,Extreme Heat,5.81,29.6,21.6,99.4,121.0,240,0,3,1,0
+ORD-50468,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,9.13,17.9,8.1,9.2,17.3,30,0,5,1,0
+ORD-50469,Suburban-West,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,8.33,84.4,79.2,1396.7,1475.9,2880,0,4,0,0
+ORD-50470,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Extreme Heat,10.39,9.8,5.8,18.9,24.7,30,0,4,0,0
+ORD-50471,Suburban-West,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,11.96,78.3,139.4,1641.3,1780.7,2880,0,4,0,0
+ORD-50472,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Extreme Heat,5.24,6.4,11.5,22.4,33.9,30,1,1,0,0
+ORD-50473,Suburban-West,Consumer Electronics,Same-Day,Gig Contractor,Clear,1.51,42.0,39.0,105.8,144.8,240,0,4,0,0
+ORD-50474,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,0.56,3.1,2.8,19.4,22.2,30,0,3,0,0
+ORD-50475,Suburban-West,Apparel,Standard 2-Day,In-House Fleet,Rain/Storm,8.78,32.2,121.8,1398.3,1520.1,2880,0,5,0,0
+ORD-50476,Metro-North,Consumer Electronics,Same-Day,In-House Fleet,Clear,10.51,43.0,28.4,120.1,148.5,240,0,5,0,0
+ORD-50477,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Rain/Storm,2.8,16.1,10.7,6.8,17.5,30,0,5,1,0
+ORD-50478,Suburban-West,Consumer Electronics,Instant (15-30m),In-House Fleet,Extreme Heat,2.07,3.4,4.7,15.9,20.6,30,0,5,1,0
+ORD-50479,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,0.93,4.7,13.5,26.1,39.6,30,1,3,0,0
+ORD-50480,Metro-South,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,9.91,3.1,12.5,16.1,28.6,30,0,5,0,0
+ORD-50481,Suburban-East,Apparel,Standard 2-Day,Dedicated 3PL,Rain/Storm,3.87,70.9,130.5,1514.2,1644.7,2880,0,4,0,1
+ORD-50482,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Clear,4.94,36.5,24.7,163.1,187.8,240,0,5,1,0
+ORD-50483,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,6.13,35.1,98.8,1640.8,1739.6,2880,0,5,0,0
+ORD-50484,Metro-South,Beauty & Care,Same-Day,Gig Contractor,Rain/Storm,10.11,16.0,32.2,99.6,131.8,240,0,5,0,0
+ORD-50485,Suburban-West,Consumer Electronics,Same-Day,Gig Contractor,Clear,7.88,17.5,35.6,107.2,142.8,240,0,4,0,0
+ORD-50486,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Rain/Storm,7.46,17.3,13.2,30.0,43.2,30,1,3,0,0
+ORD-50487,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,2.27,11.2,8.3,12.9,21.2,30,0,5,0,0
+ORD-50488,Suburban-West,Beauty & Care,Standard 2-Day,Gig Contractor,Rain/Storm,6.26,68.6,108.1,1677.0,1785.1,2880,0,5,0,0
+ORD-50489,Suburban-West,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,8.64,74.2,150.6,1160.1,1310.7,2880,0,5,0,0
+ORD-50490,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,11.68,13.3,11.6,25.0,36.6,30,1,2,1,0
+ORD-50491,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,2.58,12.4,9.5,25.4,34.9,30,1,1,0,0
+ORD-50492,Metro-North,Apparel,Same-Day,Gig Contractor,Rain/Storm,0.31,11.7,51.8,80.4,132.2,240,0,3,0,0
+ORD-50493,Metro-North,Beauty & Care,Standard 2-Day,In-House Fleet,Clear,1.09,57.2,126.7,1743.3,1870.0,2880,0,4,0,0
+ORD-50494,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,4.64,16.7,13.1,13.3,26.4,30,0,3,0,0
+ORD-50495,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Clear,9.88,33.9,19.1,142.7,161.8,240,0,5,1,0
+ORD-50496,Metro-South,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,0.28,45.8,168.7,1410.4,1579.1,2880,0,4,1,0
+ORD-50497,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,5.59,3.3,8.9,8.2,17.1,30,0,5,0,0
+ORD-50498,Suburban-West,Beauty & Care,Instant (15-30m),Dedicated 3PL,Rain/Storm,4.08,17.8,11.9,31.2,43.1,30,1,1,1,0
+ORD-50499,Suburban-West,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,0.82,27.1,52.9,92.9,145.8,240,0,5,0,0
+ORD-50500,Suburban-East,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,5.51,27.8,112.7,1538.9,1651.6,2880,0,5,0,0
+ORD-50501,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,3.21,13.7,9.3,15.2,24.5,30,0,4,0,0
+ORD-50502,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,4.35,35.8,41.0,143.1,184.1,240,0,4,0,0
+ORD-50503,Suburban-East,Consumer Electronics,Same-Day,Gig Contractor,Clear,8.53,40.0,33.1,138.4,171.5,240,0,4,0,0
+ORD-50504,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Clear,6.35,35.1,44.8,134.0,178.8,240,0,5,1,0
+ORD-50505,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Clear,1.67,37.8,45.2,145.7,190.9,240,0,5,0,0
+ORD-50506,Suburban-West,Consumer Electronics,Same-Day,Gig Contractor,Clear,11.54,38.1,45.1,130.7,175.8,240,0,3,0,1
+ORD-50507,Suburban-East,Fresh & Grocery,Same-Day,Gig Contractor,Clear,7.7,40.6,37.2,94.2,131.4,240,0,4,0,0
+ORD-50508,Suburban-West,Beauty & Care,Same-Day,Dedicated 3PL,Clear,9.24,37.0,35.8,160.7,196.5,240,0,5,0,0
+ORD-50509,Suburban-East,Beauty & Care,Same-Day,Dedicated 3PL,Clear,1.13,42.6,29.8,87.1,116.9,240,0,5,0,0
+ORD-50510,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,0.76,38.1,50.7,119.9,170.6,240,0,4,1,0
+ORD-50511,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Rain/Storm,0.43,65.1,56.0,2416.8,2472.8,2880,0,5,0,0
+ORD-50512,Suburban-West,Consumer Electronics,Instant (15-30m),In-House Fleet,Clear,2.43,17.4,10.5,15.1,25.6,30,0,5,0,0
+ORD-50513,Suburban-West,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Extreme Heat,5.09,37.5,133.6,1595.2,1728.8,2880,0,5,0,0
+ORD-50514,Metro-North,Home & Kitchen,Standard 2-Day,In-House Fleet,Clear,11.24,75.7,138.6,945.4,1084.0,2880,0,5,0,0
+ORD-50515,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,5.59,11.9,8.1,19.6,27.7,30,0,3,0,0
+ORD-50516,Metro-South,Home & Kitchen,Same-Day,Dedicated 3PL,Extreme Heat,3.63,12.2,37.7,43.3,81.0,240,0,5,0,0
+ORD-50517,Suburban-East,Fresh & Grocery,Same-Day,Gig Contractor,Clear,6.83,32.4,46.2,134.2,180.4,240,0,4,0,0
+ORD-50518,Suburban-West,Beauty & Care,Instant (15-30m),Gig Contractor,Extreme Heat,1.52,11.4,5.2,13.3,18.5,30,0,4,0,0
+ORD-50519,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,7.39,7.2,8.0,8.4,16.4,30,0,5,0,0
+ORD-50520,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,6.91,3.5,6.9,7.8,14.7,30,0,5,0,0
+ORD-50521,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,9.55,17.0,13.6,21.7,35.3,30,1,1,1,1
+ORD-50522,Suburban-West,Consumer Electronics,Standard 2-Day,Gig Contractor,Rain/Storm,11.84,67.0,122.1,1722.9,1845.0,2880,0,5,0,0
+ORD-50523,Suburban-East,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,3.16,11.3,7.7,22.3,30.0,30,0,3,1,0
+ORD-50524,Suburban-East,Home & Kitchen,Standard 2-Day,In-House Fleet,Rain/Storm,6.21,30.7,143.9,2407.6,2551.5,2880,0,5,0,0
+ORD-50525,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,10.92,15.7,9.5,129.7,139.2,240,0,5,0,0
+ORD-50526,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,9.47,75.7,131.6,931.2,1062.8,2880,0,3,0,0
+ORD-50527,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,5.95,18.6,29.9,62.7,92.6,240,0,5,0,0
+ORD-50528,Metro-North,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,11.36,15.3,4.1,12.0,16.1,30,0,5,0,0
+ORD-50529,Suburban-West,Beauty & Care,Same-Day,Gig Contractor,Extreme Heat,0.88,14.2,18.7,120.6,139.3,240,0,3,0,0
+ORD-50530,Suburban-East,Beauty & Care,Instant (15-30m),In-House Fleet,Clear,11.19,8.1,8.9,10.8,19.7,30,0,4,0,1
+ORD-50531,Suburban-West,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,0.8,14.9,40.8,212.0,252.8,240,1,1,1,0
+ORD-50532,Suburban-West,Beauty & Care,Standard 2-Day,Gig Contractor,Rain/Storm,6.66,78.3,148.3,1191.7,1340.0,2880,0,4,0,0
+ORD-50533,Metro-South,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,10.71,14.4,9.6,13.1,22.7,30,0,4,0,0
+ORD-50534,Suburban-East,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,3.3,9.5,10.1,12.3,22.4,30,0,4,0,0
+ORD-50535,Suburban-West,Fresh & Grocery,Same-Day,Gig Contractor,Clear,5.77,43.5,38.3,162.6,200.9,240,0,4,0,0
+ORD-50536,Suburban-East,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,4.03,25.4,92.9,1617.8,1710.7,2880,0,5,0,0
+ORD-50537,Metro-North,Apparel,Same-Day,In-House Fleet,Clear,11.44,38.9,35.3,149.3,184.6,240,0,5,0,0
+ORD-50538,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,9.92,10.0,11.1,24.0,35.1,30,1,2,0,0
+ORD-50539,Metro-North,Beauty & Care,Same-Day,In-House Fleet,Clear,8.57,25.6,59.7,87.1,146.8,240,0,5,0,1
+ORD-50540,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Clear,7.13,3.4,5.8,16.4,22.2,30,0,5,0,0
+ORD-50541,Metro-South,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,9.88,40.8,34.6,167.7,202.3,240,0,4,0,0
+ORD-50542,Metro-North,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Clear,4.83,83.3,135.9,1926.7,2062.6,2880,0,5,0,0
+ORD-50543,Suburban-East,Apparel,Same-Day,Gig Contractor,Clear,5.48,18.7,33.5,134.2,167.7,240,0,5,0,0
+ORD-50544,Metro-South,Consumer Electronics,Standard 2-Day,In-House Fleet,Rain/Storm,8.81,88.4,106.2,1861.7,1967.9,2880,0,5,0,0
+ORD-50545,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,4.42,16.6,5.1,8.4,13.5,30,0,5,0,0
+ORD-50546,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,0.95,30.7,26.9,136.5,163.4,240,0,5,0,0
+ORD-50547,Suburban-East,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Rain/Storm,1.08,46.8,135.0,2302.6,2437.6,2880,0,4,0,0
+ORD-50548,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,1.56,9.1,5.6,7.8,13.4,30,0,5,0,0
+ORD-50549,Suburban-East,Apparel,Standard 2-Day,Dedicated 3PL,Clear,10.46,55.9,156.6,1087.4,1244.0,2880,0,5,0,0
+ORD-50550,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,5.77,11.2,7.7,15.5,23.2,30,0,5,1,1
+ORD-50551,Suburban-West,Home & Kitchen,Same-Day,Gig Contractor,Clear,8.61,18.6,40.4,136.0,176.4,240,0,5,0,0
+ORD-50552,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,4.84,59.5,118.7,1859.4,1978.1,2880,0,5,0,1
+ORD-50553,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Clear,3.25,40.8,30.0,123.8,153.8,240,0,5,0,0
+ORD-50554,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Clear,4.3,13.8,8.3,12.4,20.7,30,0,3,0,0
+ORD-50555,Metro-South,Apparel,Same-Day,Dedicated 3PL,Clear,9.57,14.5,37.3,167.0,204.3,240,0,5,0,1
+ORD-50556,Metro-North,Home & Kitchen,Same-Day,In-House Fleet,Rain/Storm,7.58,11.9,37.0,139.0,176.0,240,0,5,1,0
+ORD-50557,Metro-North,Apparel,Standard 2-Day,Dedicated 3PL,Rain/Storm,11.26,64.9,163.4,1764.4,1927.8,2880,0,5,0,0
+ORD-50558,Suburban-East,Beauty & Care,Same-Day,Gig Contractor,Clear,8.22,44.4,19.8,162.4,182.2,240,0,3,0,0
+ORD-50559,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,6.93,7.1,7.2,22.2,29.4,30,0,5,0,0
+ORD-50560,Suburban-East,Beauty & Care,Same-Day,Gig Contractor,Clear,7.4,15.8,52.3,140.1,192.4,240,0,4,0,0
+ORD-50561,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,11.32,44.0,31.5,125.3,156.8,240,0,3,0,0
+ORD-50562,Metro-North,Apparel,Same-Day,Gig Contractor,Rain/Storm,9.5,19.9,43.4,170.3,213.7,240,0,4,0,1
+ORD-50563,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,0.48,20.7,44.8,135.6,180.4,240,0,5,1,0
+ORD-50564,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Clear,6.5,52.0,50.6,823.5,874.1,2880,0,4,0,0
+ORD-50565,Metro-South,Fresh & Grocery,Same-Day,In-House Fleet,Clear,8.32,21.1,42.9,104.5,147.4,240,0,5,0,0
+ORD-50566,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,9.03,32.6,43.5,69.8,113.3,240,0,4,1,0
+ORD-50567,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,2.72,5.4,12.4,29.8,42.2,30,1,1,0,1
+ORD-50568,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,10.43,12.6,9.6,5.0,14.6,30,0,4,0,1
+ORD-50569,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,11.48,11.8,10.0,29.8,39.8,30,1,1,1,0
+ORD-50570,Metro-South,Apparel,Instant (15-30m),In-House Fleet,Rain/Storm,2.99,17.3,6.9,23.1,30.0,30,0,4,1,0
+ORD-50571,Suburban-East,Consumer Electronics,Same-Day,Gig Contractor,Clear,10.61,12.2,35.9,105.0,140.9,240,0,5,0,0
+ORD-50572,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Clear,1.34,18.5,29.8,137.8,167.6,240,0,5,0,0
+ORD-50573,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Clear,0.86,43.8,34.4,69.5,103.9,240,0,5,0,0
+ORD-50574,Suburban-West,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,1.72,32.1,134.0,1391.1,1525.1,2880,0,4,0,0
+ORD-50575,Suburban-West,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,0.88,35.8,104.4,1230.6,1335.0,2880,0,3,0,0
+ORD-50576,Metro-North,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Extreme Heat,10.17,24.8,95.8,1594.5,1690.3,2880,0,4,0,0
+ORD-50577,Suburban-West,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,0.9,25.8,20.8,66.1,86.9,240,0,5,1,0
+ORD-50578,Metro-South,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,3.41,42.6,22.3,87.6,109.9,240,0,4,0,0
+ORD-50579,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,1.42,40.9,49.9,121.1,171.0,240,0,5,0,0
+ORD-50580,Metro-South,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,3.69,3.2,11.2,20.9,32.1,30,1,1,0,0
+ORD-50581,Suburban-West,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,1.27,5.3,11.4,19.0,30.4,30,1,1,1,0
+ORD-50582,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Clear,8.08,37.7,92.4,1547.1,1639.5,2880,0,4,0,0
+ORD-50583,Metro-North,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Clear,1.77,24.8,110.9,1058.2,1169.1,2880,0,5,0,0
+ORD-50584,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,10.25,6.4,7.3,34.9,42.2,30,1,2,0,1
+ORD-50585,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,9.84,37.6,35.4,146.7,182.1,240,0,4,0,0
+ORD-50586,Metro-North,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,0.36,80.1,98.4,1263.5,1361.9,2880,0,5,0,0
+ORD-50587,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,10.77,5.5,5.4,21.1,26.5,30,0,5,0,0
+ORD-50588,Metro-North,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Rain/Storm,0.54,8.8,11.6,21.2,32.8,30,1,2,0,0
+ORD-50589,Metro-North,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,3.03,83.9,80.6,1710.4,1791.0,2880,0,4,0,0
+ORD-50590,Metro-North,Beauty & Care,Same-Day,In-House Fleet,Rain/Storm,0.58,37.7,54.8,179.4,234.2,240,0,4,0,0
+ORD-50591,Metro-South,Consumer Electronics,Instant (15-30m),In-House Fleet,Rain/Storm,4.16,9.2,5.6,21.8,27.4,30,0,5,0,0
+ORD-50592,Metro-North,Beauty & Care,Same-Day,In-House Fleet,Clear,6.26,43.4,45.9,212.8,258.7,240,1,2,1,0
+ORD-50593,Metro-North,Beauty & Care,Standard 2-Day,Gig Contractor,Extreme Heat,9.6,84.2,147.6,1458.1,1605.7,2880,0,5,0,0
+ORD-50594,Suburban-West,Consumer Electronics,Same-Day,Gig Contractor,Rain/Storm,4.19,31.0,36.3,198.5,234.8,240,0,4,1,0
+ORD-50595,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Rain/Storm,8.52,11.7,3.9,30.8,34.7,30,1,2,1,0
+ORD-50596,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,2.41,5.1,4.2,9.7,13.9,30,0,5,0,0
+ORD-50597,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,9.06,12.6,46.9,91.9,138.8,240,0,5,1,0
+ORD-50598,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,2.98,19.0,11.3,89.4,100.7,240,0,3,0,0
+ORD-50599,Metro-North,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,1.89,73.7,75.2,1739.0,1814.2,2880,0,4,0,0
+ORD-50600,Metro-North,Fresh & Grocery,Instant (15-30m),In-House Fleet,Clear,2.39,6.1,7.4,11.4,18.8,30,0,4,0,0
+ORD-50601,Metro-North,Apparel,Standard 2-Day,Gig Contractor,Clear,2.35,87.6,120.2,1664.6,1784.8,2880,0,5,0,0
+ORD-50602,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,6.25,12.7,8.1,18.4,26.5,30,0,4,0,0
+ORD-50603,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,10.17,14.9,9.8,17.2,27.0,30,0,4,0,0
+ORD-50604,Metro-North,Consumer Electronics,Instant (15-30m),In-House Fleet,Clear,1.14,8.1,6.2,13.5,19.7,30,0,5,0,0
+ORD-50605,Metro-South,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Rain/Storm,8.54,15.6,4.3,19.5,23.8,30,0,4,0,0
+ORD-50606,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Rain/Storm,7.92,31.8,41.2,233.9,275.1,240,1,1,0,0
+ORD-50607,Metro-South,Fresh & Grocery,Same-Day,In-House Fleet,Clear,10.5,39.1,46.9,34.4,81.3,240,0,5,0,0
+ORD-50608,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,3.08,15.6,9.5,17.0,26.5,30,0,5,0,0
+ORD-50609,Suburban-East,Consumer Electronics,Same-Day,Gig Contractor,Clear,5.51,18.7,37.7,121.2,158.9,240,0,3,1,0
+ORD-50610,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,11.12,14.0,11.7,30.2,41.9,30,1,1,0,1
+ORD-50611,Suburban-East,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,7.99,53.4,91.3,1669.3,1760.6,2880,0,5,0,0
+ORD-50612,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,4.79,56.0,132.7,1989.4,2122.1,2880,0,4,1,0
+ORD-50613,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,1.75,3.8,7.8,13.3,21.1,30,0,3,0,0
+ORD-50614,Suburban-West,Beauty & Care,Same-Day,In-House Fleet,Rain/Storm,3.3,30.5,41.3,156.3,197.6,240,0,3,0,0
+ORD-50615,Suburban-West,Fresh & Grocery,Instant (15-30m),In-House Fleet,Rain/Storm,7.06,6.6,6.8,18.9,25.7,30,0,5,0,0
+ORD-50616,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Rain/Storm,8.67,7.6,7.4,9.7,17.1,30,0,4,0,1
+ORD-50617,Metro-North,Beauty & Care,Instant (15-30m),Dedicated 3PL,Extreme Heat,1.67,3.5,10.1,10.9,21.0,30,0,3,0,0
+ORD-50618,Suburban-East,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Rain/Storm,7.28,65.4,66.1,1895.5,1961.6,2880,0,5,0,0
+ORD-50619,Suburban-East,Consumer Electronics,Same-Day,Gig Contractor,Extreme Heat,6.69,23.9,36.9,164.4,201.3,240,0,4,1,0
+ORD-50620,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Extreme Heat,6.26,16.7,9.8,26.1,35.9,30,1,1,1,0
+ORD-50621,Metro-North,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Rain/Storm,8.34,89.8,103.8,1762.3,1866.1,2880,0,5,0,0
+ORD-50622,Metro-South,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,10.08,38.5,45.5,139.6,185.1,240,0,3,0,1
+ORD-50623,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,4.01,78.7,180.0,1460.1,1640.1,2880,0,5,0,0
+ORD-50624,Metro-South,Apparel,Same-Day,In-House Fleet,Clear,10.69,24.0,25.6,106.7,132.3,240,0,4,0,0
+ORD-50625,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Clear,2.1,11.2,21.3,155.8,177.1,240,0,4,0,0
+ORD-50626,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,2.24,5.6,9.6,24.3,33.9,30,1,1,1,0
+ORD-50627,Suburban-East,Apparel,Instant (15-30m),Dedicated 3PL,Clear,3.35,11.6,9.8,20.3,30.1,30,1,3,1,0
+ORD-50628,Metro-North,Apparel,Standard 2-Day,Gig Contractor,Extreme Heat,1.61,45.9,144.8,1231.7,1376.5,2880,0,4,0,0
+ORD-50629,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,2.92,17.9,7.4,17.5,24.9,30,0,5,0,0
+ORD-50630,Suburban-East,Fresh & Grocery,Standard 2-Day,Gig Contractor,Rain/Storm,1.46,35.4,140.8,2072.7,2213.5,2880,0,5,0,0
+ORD-50631,Suburban-West,Beauty & Care,Same-Day,Dedicated 3PL,Clear,9.9,42.5,10.1,97.8,107.9,240,0,4,0,0
+ORD-50632,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,1.84,8.6,10.8,25.3,36.1,30,1,1,1,0
+ORD-50633,Metro-South,Apparel,Instant (15-30m),Dedicated 3PL,Clear,9.02,7.0,5.0,15.5,20.5,30,0,5,0,0
+ORD-50634,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,0.77,3.3,9.0,6.7,15.7,30,0,5,0,0
+ORD-50635,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,11.39,68.1,184.6,1697.0,1881.6,2880,0,5,0,0
+ORD-50636,Metro-South,Beauty & Care,Same-Day,In-House Fleet,Clear,8.59,37.5,33.7,135.3,169.0,240,0,5,1,0
+ORD-50637,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Extreme Heat,0.28,4.2,5.4,20.9,26.3,30,0,5,1,1
+ORD-50638,Metro-North,Consumer Electronics,Instant (15-30m),In-House Fleet,Rain/Storm,9.21,16.7,6.1,20.2,26.3,30,0,5,0,0
+ORD-50639,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,6.27,15.0,2.6,18.2,20.8,30,0,4,0,0
+ORD-50640,Metro-North,Beauty & Care,Same-Day,In-House Fleet,Clear,9.4,44.2,40.8,138.1,178.9,240,0,5,0,0
+ORD-50641,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,6.37,5.7,9.6,23.5,33.1,30,1,1,1,0
+ORD-50642,Metro-North,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,7.76,52.9,142.9,1543.1,1686.0,2880,0,4,0,0
+ORD-50643,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Extreme Heat,9.48,13.0,8.5,12.1,20.6,30,0,4,0,0
+ORD-50644,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,4.98,13.1,7.7,8.4,16.1,30,0,4,1,0
+ORD-50645,Suburban-West,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,0.23,41.7,34.8,139.8,174.6,240,0,5,0,0
+ORD-50646,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,10.23,34.0,19.2,107.8,127.0,240,0,5,0,0
+ORD-50647,Suburban-East,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Clear,4.69,45.8,134.4,1348.7,1483.1,2880,0,3,0,0
+ORD-50648,Suburban-East,Fresh & Grocery,Same-Day,Gig Contractor,Clear,6.05,11.1,32.4,196.1,228.5,240,0,5,0,0
+ORD-50649,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Rain/Storm,0.29,12.1,10.6,21.1,31.7,30,1,2,0,0
+ORD-50650,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,6.01,30.3,24.4,149.0,173.4,240,0,4,0,0
+ORD-50651,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,11.84,17.0,8.2,17.4,25.6,30,0,5,0,0
+ORD-50652,Metro-South,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,3.48,10.8,9.2,17.8,27.0,30,0,5,1,0
+ORD-50653,Suburban-East,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,4.87,28.2,100.2,2081.7,2181.9,2880,0,4,1,0
+ORD-50654,Metro-South,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Rain/Storm,8.31,55.8,125.1,2649.1,2774.2,2880,0,4,0,0
+ORD-50655,Metro-North,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,9.81,28.5,180.8,1484.4,1665.2,2880,0,5,0,0
+ORD-50656,Metro-North,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,5.13,36.0,40.0,109.8,149.8,240,0,5,0,0
+ORD-50657,Metro-South,Fresh & Grocery,Same-Day,In-House Fleet,Clear,3.85,28.3,26.6,108.9,135.5,240,0,5,0,0
+ORD-50658,Metro-South,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,11.27,14.5,11.3,11.5,22.8,30,0,4,1,0
+ORD-50659,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,8.19,8.2,4.7,21.4,26.1,30,0,5,0,0
+ORD-50660,Metro-South,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,1.6,41.2,65.0,1231.5,1296.5,2880,0,4,0,0
+ORD-50661,Suburban-West,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,1.01,6.2,2.0,14.4,16.4,30,0,5,0,0
+ORD-50662,Metro-South,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Rain/Storm,5.91,52.4,182.2,2473.8,2656.0,2880,0,5,0,1
+ORD-50663,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,2.8,33.4,21.3,140.8,162.1,240,0,5,0,0
+ORD-50664,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Extreme Heat,3.2,3.2,10.7,25.2,35.9,30,1,3,1,0
+ORD-50665,Metro-North,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,10.56,13.8,21.3,111.1,132.4,240,0,4,0,0
+ORD-50666,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Extreme Heat,1.26,33.8,46.1,146.1,192.2,240,0,3,0,0
+ORD-50667,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Rain/Storm,8.64,16.4,7.4,20.3,27.7,30,0,5,0,0
+ORD-50668,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,3.4,53.4,73.8,1375.8,1449.6,2880,0,5,0,0
+ORD-50669,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Rain/Storm,9.17,25.2,31.7,107.5,139.2,240,0,4,0,0
+ORD-50670,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,8.72,10.8,7.2,22.0,29.2,30,0,3,0,0
+ORD-50671,Suburban-West,Fresh & Grocery,Same-Day,Gig Contractor,Extreme Heat,0.29,26.2,45.5,127.0,172.5,240,0,3,0,0
+ORD-50672,Metro-North,Apparel,Standard 2-Day,In-House Fleet,Clear,6.21,57.9,157.9,1331.9,1489.8,2880,0,5,0,0
+ORD-50673,Metro-South,Home & Kitchen,Instant (15-30m),In-House Fleet,Clear,1.84,11.1,2.6,9.5,12.1,30,0,4,0,0
+ORD-50674,Metro-South,Apparel,Standard 2-Day,Dedicated 3PL,Clear,10.42,33.1,118.7,1327.9,1446.6,2880,0,3,0,0
+ORD-50675,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Extreme Heat,10.48,14.2,7.8,12.9,20.7,30,0,5,0,1
+ORD-50676,Metro-North,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,5.14,34.8,144.9,1871.5,2016.4,2880,0,5,0,0
+ORD-50677,Metro-South,Beauty & Care,Same-Day,Dedicated 3PL,Clear,5.44,35.5,43.7,160.0,203.7,240,0,5,0,0
+ORD-50678,Suburban-West,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Rain/Storm,3.78,16.4,11.1,23.7,34.8,30,1,4,0,0
+ORD-50679,Suburban-West,Apparel,Instant (15-30m),Gig Contractor,Rain/Storm,8.66,7.4,10.7,15.9,26.6,30,0,4,0,0
+ORD-50680,Suburban-East,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,4.43,53.1,131.7,1680.9,1812.6,2880,0,5,0,0
+ORD-50681,Metro-North,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,3.36,30.6,20.4,75.1,95.5,240,0,5,0,0
+ORD-50682,Metro-North,Home & Kitchen,Same-Day,In-House Fleet,Clear,5.3,24.7,32.6,100.5,133.1,240,0,3,0,0
+ORD-50683,Suburban-East,Apparel,Instant (15-30m),Gig Contractor,Clear,1.28,13.9,2.7,16.4,19.1,30,0,5,0,0
+ORD-50684,Suburban-West,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,9.01,84.8,113.0,1546.0,1659.0,2880,0,5,0,0
+ORD-50685,Metro-South,Consumer Electronics,Same-Day,Dedicated 3PL,Extreme Heat,0.35,16.4,38.8,123.7,162.5,240,0,4,0,0
+ORD-50686,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Clear,7.8,84.8,184.3,1437.4,1621.7,2880,0,3,0,0
+ORD-50687,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,2.36,15.2,7.6,13.5,21.1,30,0,5,0,0
+ORD-50688,Suburban-East,Apparel,Same-Day,Gig Contractor,Clear,2.94,30.4,29.1,119.9,149.0,240,0,3,0,0
+ORD-50689,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Clear,7.7,33.4,51.3,111.3,162.6,240,0,5,0,0
+ORD-50690,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,11.92,3.9,8.3,17.6,25.9,30,0,5,0,0
+ORD-50691,Metro-South,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,9.38,37.4,45.8,105.3,151.1,240,0,5,0,0
+ORD-50692,Metro-South,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,2.86,7.2,10.0,19.1,29.1,30,0,4,1,0
+ORD-50693,Metro-North,Home & Kitchen,Same-Day,Dedicated 3PL,Extreme Heat,2.28,41.9,18.2,109.3,127.5,240,0,4,0,0
+ORD-50694,Metro-North,Beauty & Care,Same-Day,In-House Fleet,Clear,10.42,12.8,50.7,57.4,108.1,240,0,5,0,0
+ORD-50695,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Extreme Heat,5.44,14.8,6.8,9.1,15.9,30,0,5,1,0
+ORD-50696,Metro-North,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,1.82,20.2,45.6,88.0,133.6,240,0,5,0,0
+ORD-50697,Metro-South,Beauty & Care,Same-Day,Dedicated 3PL,Clear,10.37,24.1,27.8,148.3,176.1,240,0,5,0,0
+ORD-50698,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,9.83,3.1,8.3,24.6,32.9,30,1,2,1,0
+ORD-50699,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,11.81,52.9,153.5,1166.5,1320.0,2880,0,4,0,0
+ORD-50700,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,10.93,71.9,99.7,1536.7,1636.4,2880,0,5,1,0
+ORD-50701,Metro-North,Apparel,Same-Day,Gig Contractor,Rain/Storm,10.25,25.7,22.4,118.7,141.1,240,0,4,0,0
+ORD-50702,Metro-North,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,0.82,5.0,4.7,17.1,21.8,30,0,5,0,1
+ORD-50703,Metro-North,Apparel,Standard 2-Day,Gig Contractor,Clear,1.43,23.5,146.1,1205.3,1351.4,2880,0,5,0,0
+ORD-50704,Metro-North,Apparel,Same-Day,Gig Contractor,Rain/Storm,6.91,20.8,37.1,172.1,209.2,240,0,5,0,0
+ORD-50705,Suburban-West,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,6.47,17.2,7.7,22.9,30.6,30,1,3,1,0
+ORD-50706,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,5.6,20.0,53.9,85.6,139.5,240,0,5,0,0
+ORD-50707,Suburban-East,Apparel,Same-Day,Gig Contractor,Extreme Heat,4.88,38.6,23.1,186.3,209.4,240,0,5,1,1
+ORD-50708,Metro-North,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,5.29,43.3,36.9,152.4,189.3,240,0,3,0,0
+ORD-50709,Suburban-East,Apparel,Same-Day,Gig Contractor,Clear,6.92,15.5,13.8,149.2,163.0,240,0,5,0,1
+ORD-50710,Suburban-East,Fresh & Grocery,Same-Day,Gig Contractor,Clear,0.22,17.2,51.8,115.9,167.7,240,0,4,0,0
+ORD-50711,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,3.28,40.8,107.0,1712.5,1819.5,2880,0,5,0,0
+ORD-50712,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,6.32,9.5,6.3,23.3,29.6,30,0,4,0,0
+ORD-50713,Metro-South,Apparel,Same-Day,Gig Contractor,Extreme Heat,8.72,15.4,19.9,171.2,191.1,240,0,4,0,0
+ORD-50714,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,2.26,42.9,142.2,1291.8,1434.0,2880,0,4,0,0
+ORD-50715,Suburban-West,Home & Kitchen,Same-Day,In-House Fleet,Clear,6.65,24.9,23.0,128.8,151.8,240,0,5,1,1
+ORD-50716,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,8.63,43.0,62.3,170.0,232.3,240,0,4,1,1
+ORD-50717,Suburban-West,Apparel,Same-Day,Dedicated 3PL,Rain/Storm,5.45,39.4,63.4,119.7,183.1,240,0,5,0,0
+ORD-50718,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,0.52,27.5,32.4,138.8,171.2,240,0,5,0,0
+ORD-50719,Suburban-East,Apparel,Standard 2-Day,Gig Contractor,Clear,5.5,25.8,101.7,943.9,1045.6,2880,0,5,1,0
+ORD-50720,Suburban-West,Fresh & Grocery,Same-Day,Gig Contractor,Clear,3.7,14.9,36.4,160.4,196.8,240,0,3,0,0
+ORD-50721,Metro-North,Home & Kitchen,Standard 2-Day,In-House Fleet,Clear,11.17,55.7,84.6,1726.2,1810.8,2880,0,5,0,0
+ORD-50722,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,1.67,4.0,6.4,19.2,25.6,30,0,5,1,0
+ORD-50723,Suburban-East,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,7.9,12.6,9.5,17.8,27.3,30,0,3,0,0
+ORD-50724,Metro-South,Apparel,Same-Day,Gig Contractor,Extreme Heat,0.82,37.3,40.2,103.4,143.6,240,0,4,0,0
+ORD-50725,Suburban-East,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,5.46,17.1,8.1,24.9,33.0,30,1,2,0,0
+ORD-50726,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,6.74,16.0,8.3,15.3,23.6,30,0,4,0,0
+ORD-50727,Suburban-East,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,3.72,15.8,8.2,13.3,21.5,30,0,4,0,0
+ORD-50728,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,5.57,15.3,8.2,18.5,26.7,30,0,5,1,0
+ORD-50729,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,2.13,12.9,5.2,10.1,15.3,30,0,5,0,1
+ORD-50730,Metro-North,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,3.79,52.8,148.5,738.9,887.4,2880,0,4,0,1
+ORD-50731,Suburban-East,Beauty & Care,Instant (15-30m),Gig Contractor,Rain/Storm,7.53,3.3,13.4,15.8,29.2,30,0,5,0,1
+ORD-50732,Suburban-East,Consumer Electronics,Same-Day,Gig Contractor,Clear,3.76,28.4,36.4,120.2,156.6,240,0,5,0,0
+ORD-50733,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,10.82,52.2,92.8,1029.7,1122.5,2880,0,4,0,0
+ORD-50734,Metro-South,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Rain/Storm,7.62,79.9,219.3,1618.3,1837.6,2880,0,4,0,0
+ORD-50735,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,5.38,5.4,7.4,26.0,33.4,30,1,1,1,0
+ORD-50736,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,0.66,61.6,215.9,1163.9,1379.8,2880,0,5,0,1
+ORD-50737,Suburban-East,Apparel,Same-Day,Gig Contractor,Clear,6.09,33.8,24.7,103.8,128.5,240,0,3,0,1
+ORD-50738,Metro-South,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,9.22,21.4,33.5,131.9,165.4,240,0,5,0,0
+ORD-50739,Metro-South,Beauty & Care,Same-Day,Gig Contractor,Extreme Heat,3.33,19.0,42.4,142.4,184.8,240,0,5,0,0
+ORD-50740,Metro-South,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,9.72,83.8,73.7,1258.4,1332.1,2880,0,5,0,1
+ORD-50741,Metro-North,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,3.17,3.4,8.4,11.3,19.7,30,0,4,0,0
+ORD-50742,Suburban-East,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,9.92,30.3,34.8,99.4,134.2,240,0,5,0,0
+ORD-50743,Metro-South,Apparel,Same-Day,Gig Contractor,Extreme Heat,1.21,34.3,43.7,147.1,190.8,240,0,5,0,0
+ORD-50744,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,10.42,54.0,109.8,1040.2,1150.0,2880,0,4,0,0
+ORD-50745,Suburban-West,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,6.09,52.1,109.2,1983.2,2092.4,2880,0,5,0,0
+ORD-50746,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,3.7,10.5,9.7,14.4,24.1,30,0,5,0,0
+ORD-50747,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,3.33,78.3,153.2,1122.3,1275.5,2880,0,5,0,0
+ORD-50748,Suburban-West,Apparel,Instant (15-30m),Dedicated 3PL,Clear,5.3,12.8,6.5,24.4,30.9,30,1,1,1,0
+ORD-50749,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,11.99,13.9,3.8,14.7,18.5,30,0,3,0,0
+ORD-50750,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,2.8,11.5,12.4,13.3,25.7,30,0,5,0,1
+ORD-50751,Suburban-West,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,1.42,16.9,5.6,14.1,19.7,30,0,4,0,0
+ORD-50752,Metro-South,Fresh & Grocery,Same-Day,Dedicated 3PL,Rain/Storm,7.1,44.7,34.9,196.2,231.1,240,0,3,0,0
+ORD-50753,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,5.96,4.1,8.6,16.9,25.5,30,0,3,0,0
+ORD-50754,Metro-North,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,6.39,15.5,7.6,13.0,20.6,30,0,4,0,0
+ORD-50755,Suburban-East,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,8.07,72.5,75.1,1734.6,1809.7,2880,0,4,0,0
+ORD-50756,Metro-South,Apparel,Standard 2-Day,Dedicated 3PL,Extreme Heat,3.35,60.5,135.5,1492.3,1627.8,2880,0,4,0,0
+ORD-50757,Metro-South,Apparel,Standard 2-Day,Dedicated 3PL,Clear,10.95,31.6,144.2,1262.8,1407.0,2880,0,5,0,0
+ORD-50758,Suburban-West,Beauty & Care,Standard 2-Day,Dedicated 3PL,Rain/Storm,5.34,62.3,121.0,1909.0,2030.0,2880,0,4,0,0
+ORD-50759,Suburban-East,Home & Kitchen,Same-Day,Dedicated 3PL,Rain/Storm,1.72,15.1,57.5,158.2,215.7,240,0,5,0,0
+ORD-50760,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,8.96,3.3,8.6,12.9,21.5,30,0,5,0,0
+ORD-50761,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Extreme Heat,7.79,7.8,10.2,12.3,22.5,30,0,5,0,0
+ORD-50762,Metro-North,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,3.93,16.5,28.9,119.9,148.8,240,0,5,0,0
+ORD-50763,Suburban-East,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,7.53,12.7,5.9,11.6,17.5,30,0,4,0,0
+ORD-50764,Metro-North,Consumer Electronics,Same-Day,In-House Fleet,Rain/Storm,2.79,37.0,40.2,164.1,204.3,240,0,3,0,0
+ORD-50765,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,5.45,5.5,12.2,25.5,37.7,30,1,1,1,0
+ORD-50766,Suburban-East,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,10.81,8.4,3.0,15.0,18.0,30,0,5,0,0
+ORD-50767,Suburban-West,Consumer Electronics,Same-Day,Gig Contractor,Clear,1.78,23.2,6.9,131.5,138.4,240,0,5,0,0
+ORD-50768,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Clear,4.76,10.6,23.3,144.3,167.6,240,0,5,0,0
+ORD-50769,Suburban-East,Beauty & Care,Same-Day,Dedicated 3PL,Rain/Storm,9.89,30.8,47.9,163.5,211.4,240,0,5,1,0
+ORD-50770,Metro-North,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,11.64,37.2,38.7,64.1,102.8,240,0,4,0,0
+ORD-50771,Suburban-East,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,5.56,13.8,5.4,18.0,23.4,30,0,5,0,0
+ORD-50772,Metro-North,Apparel,Instant (15-30m),Dedicated 3PL,Clear,6.18,15.2,5.8,14.9,20.7,30,0,5,0,0
+ORD-50773,Metro-South,Home & Kitchen,Standard 2-Day,In-House Fleet,Clear,6.95,23.1,169.3,1469.7,1639.0,2880,0,5,0,0
+ORD-50774,Suburban-East,Beauty & Care,Same-Day,Dedicated 3PL,Rain/Storm,11.2,38.0,39.1,143.0,182.1,240,0,5,0,0
+ORD-50775,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,10.33,13.1,9.0,11.9,20.9,30,0,5,0,0
+ORD-50776,Metro-North,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Extreme Heat,2.21,27.3,58.1,1401.0,1459.1,2880,0,5,0,0
+ORD-50777,Suburban-East,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,5.35,4.7,5.4,5.0,10.4,30,0,5,0,0
+ORD-50778,Suburban-East,Apparel,Same-Day,Gig Contractor,Rain/Storm,5.68,32.6,33.7,138.3,172.0,240,0,5,0,0
+ORD-50779,Metro-South,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,9.51,6.7,10.2,20.4,30.6,30,1,3,1,0
+ORD-50780,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Clear,7.31,29.5,33.8,95.8,129.6,240,0,4,0,0
+ORD-50781,Metro-South,Beauty & Care,Same-Day,Gig Contractor,Clear,7.92,18.2,42.2,158.0,200.2,240,0,5,0,0
+ORD-50782,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,11.98,10.2,10.2,18.4,28.6,30,0,5,0,0
+ORD-50783,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,1.08,57.7,140.9,1720.1,1861.0,2880,0,5,0,0
+ORD-50784,Metro-North,Apparel,Same-Day,In-House Fleet,Extreme Heat,2.83,42.5,39.4,98.8,138.2,240,0,4,0,0
+ORD-50785,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,5.01,6.8,6.5,20.6,27.1,30,0,5,0,1
+ORD-50786,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,4.3,10.0,8.6,12.7,21.3,30,0,5,0,1
+ORD-50787,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,0.46,4.6,2.0,13.1,15.1,30,0,5,0,0
+ORD-50788,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,1.28,9.3,9.7,7.6,17.3,30,0,5,1,0
+ORD-50789,Suburban-West,Apparel,Same-Day,In-House Fleet,Clear,8.24,10.1,34.4,154.5,188.9,240,0,4,0,0
+ORD-50790,Metro-North,Home & Kitchen,Standard 2-Day,Gig Contractor,Rain/Storm,10.58,83.4,118.7,2316.2,2434.9,2880,0,5,0,0
+ORD-50791,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Extreme Heat,6.27,11.1,21.6,138.6,160.2,240,0,5,0,0
+ORD-50792,Metro-South,Apparel,Instant (15-30m),Dedicated 3PL,Clear,6.56,12.9,10.9,14.4,25.3,30,0,4,0,0
+ORD-50793,Metro-South,Home & Kitchen,Instant (15-30m),In-House Fleet,Clear,3.21,5.6,7.5,19.3,26.8,30,0,5,1,0
+ORD-50794,Metro-North,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,9.26,9.2,7.2,10.9,18.1,30,0,4,0,1
+ORD-50795,Suburban-West,Beauty & Care,Same-Day,Dedicated 3PL,Clear,9.07,18.8,46.5,89.0,135.5,240,0,5,0,0
+ORD-50796,Suburban-West,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,7.14,83.4,177.0,1143.3,1320.3,2880,0,4,0,0
+ORD-50797,Metro-South,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,2.71,11.9,5.7,18.7,24.4,30,0,5,0,0
+ORD-50798,Suburban-East,Apparel,Same-Day,Gig Contractor,Clear,1.34,30.6,44.9,121.4,166.3,240,0,5,0,0
+ORD-50799,Suburban-West,Consumer Electronics,Standard 2-Day,In-House Fleet,Clear,0.96,29.8,128.5,950.7,1079.2,2880,0,5,0,0
+ORD-50800,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,7.19,40.7,38.0,149.4,187.4,240,0,4,0,0
+ORD-50801,Metro-North,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,9.94,82.4,71.3,1429.7,1501.0,2880,0,3,0,1
+ORD-50802,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Clear,10.33,34.7,29.6,126.3,155.9,240,0,3,0,0
+ORD-50803,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Clear,5.67,27.1,37.7,103.8,141.5,240,0,4,1,0
+ORD-50804,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Clear,9.45,28.5,42.8,78.5,121.3,240,0,3,0,0
+ORD-50805,Suburban-East,Beauty & Care,Same-Day,In-House Fleet,Extreme Heat,11.37,43.0,29.4,120.2,149.6,240,0,5,0,0
+ORD-50806,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,3.45,14.5,7.5,24.9,32.4,30,1,2,1,0
+ORD-50807,Suburban-West,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Rain/Storm,4.9,9.7,10.0,14.8,24.8,30,0,4,0,0
+ORD-50808,Metro-South,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,11.19,7.1,7.3,13.7,21.0,30,0,5,1,0
+ORD-50809,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,4.19,29.3,28.7,132.5,161.2,240,0,4,0,0
+ORD-50810,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,10.98,3.2,11.5,14.7,26.2,30,0,5,0,0
+ORD-50811,Suburban-East,Consumer Electronics,Standard 2-Day,Gig Contractor,Rain/Storm,11.78,46.7,150.8,710.6,861.4,2880,0,4,0,0
+ORD-50812,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,8.01,34.1,37.4,109.4,146.8,240,0,5,0,0
+ORD-50813,Suburban-West,Beauty & Care,Same-Day,Dedicated 3PL,Extreme Heat,9.84,43.5,36.9,83.8,120.7,240,0,5,1,1
+ORD-50814,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Extreme Heat,9.04,17.5,7.7,15.3,23.0,30,0,4,0,0
+ORD-50815,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Rain/Storm,8.45,80.3,26.8,2545.7,2572.5,2880,0,5,0,1
+ORD-50816,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,3.82,85.5,106.8,1769.5,1876.3,2880,0,5,1,0
+ORD-50817,Metro-South,Beauty & Care,Same-Day,In-House Fleet,Clear,0.87,11.2,49.3,81.2,130.5,240,0,5,0,0
+ORD-50818,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Rain/Storm,4.25,9.2,9.3,27.9,37.2,30,1,3,0,0
+ORD-50819,Metro-North,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,8.07,25.6,33.4,137.7,171.1,240,0,4,0,0
+ORD-50820,Suburban-East,Apparel,Instant (15-30m),Dedicated 3PL,Rain/Storm,1.41,4.7,8.1,23.5,31.6,30,1,1,1,0
+ORD-50821,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,0.34,3.2,7.5,15.0,22.5,30,0,5,0,0
+ORD-50822,Metro-North,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Clear,1.85,36.8,104.4,1883.3,1987.7,2880,0,5,0,0
+ORD-50823,Metro-South,Consumer Electronics,Same-Day,Gig Contractor,Extreme Heat,8.65,41.6,36.4,107.9,144.3,240,0,3,0,0
+ORD-50824,Metro-South,Apparel,Same-Day,Dedicated 3PL,Clear,11.68,12.3,20.7,132.6,153.3,240,0,5,0,0
+ORD-50825,Suburban-West,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,11.8,59.3,98.1,1063.8,1161.9,2880,0,5,0,0
+ORD-50826,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,6.03,21.4,27.1,103.5,130.6,240,0,4,0,0
+ORD-50827,Metro-North,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,10.46,18.3,19.6,88.8,108.4,240,0,5,0,0
+ORD-50828,Suburban-East,Beauty & Care,Instant (15-30m),In-House Fleet,Rain/Storm,8.89,8.3,11.2,25.1,36.3,30,1,1,1,0
+ORD-50829,Metro-South,Apparel,Standard 2-Day,Gig Contractor,Clear,6.11,74.9,176.1,1538.7,1714.8,2880,0,4,0,0
+ORD-50830,Metro-North,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Extreme Heat,6.96,17.8,9.4,21.3,30.7,30,1,1,1,0
+ORD-50831,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Rain/Storm,1.82,24.0,117.3,2228.1,2345.4,2880,0,3,0,0
+ORD-50832,Metro-North,Consumer Electronics,Standard 2-Day,Dedicated 3PL,Clear,11.26,27.1,99.9,894.0,993.9,2880,0,5,0,0
+ORD-50833,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,4.35,3.2,11.6,18.3,29.9,30,0,5,0,0
+ORD-50834,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Clear,5.46,29.5,44.9,134.0,178.9,240,0,3,0,0
+ORD-50835,Metro-South,Fresh & Grocery,Standard 2-Day,In-House Fleet,Clear,8.13,21.4,189.2,1552.0,1741.2,2880,0,5,0,0
+ORD-50836,Suburban-West,Home & Kitchen,Same-Day,In-House Fleet,Extreme Heat,4.14,21.1,23.6,155.2,178.8,240,0,5,0,0
+ORD-50837,Metro-South,Apparel,Standard 2-Day,Dedicated 3PL,Clear,3.2,88.8,133.6,1423.8,1557.4,2880,0,5,1,0
+ORD-50838,Metro-South,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,7.65,78.0,52.2,1704.5,1756.7,2880,0,4,1,0
+ORD-50839,Metro-South,Apparel,Same-Day,In-House Fleet,Clear,0.49,18.8,14.9,137.1,152.0,240,0,5,0,0
+ORD-50840,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,8.7,11.0,10.2,17.5,27.7,30,0,5,0,0
+ORD-50841,Suburban-East,Fresh & Grocery,Standard 2-Day,In-House Fleet,Clear,6.27,50.5,139.4,1284.7,1424.1,2880,0,3,0,0
+ORD-50842,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,7.35,32.2,47.7,175.1,222.8,240,0,4,1,0
+ORD-50843,Suburban-West,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,7.66,6.4,8.3,13.4,21.7,30,0,5,0,0
+ORD-50844,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,6.42,7.6,6.9,19.2,26.1,30,0,5,0,0
+ORD-50845,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,7.07,11.4,26.9,110.3,137.2,240,0,5,0,0
+ORD-50846,Metro-North,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,8.27,89.1,129.2,1363.9,1493.1,2880,0,5,0,0
+ORD-50847,Suburban-West,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,9.09,30.0,109.2,1357.4,1466.6,2880,0,5,0,0
+ORD-50848,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,8.78,37.0,38.4,92.8,131.2,240,0,5,1,0
+ORD-50849,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,10.46,14.5,5.5,17.9,23.4,30,0,3,0,1
+ORD-50850,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,2.44,8.1,9.3,17.1,26.4,30,0,5,0,0
+ORD-50851,Suburban-East,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,4.93,84.2,173.2,1569.4,1742.6,2880,0,5,0,0
+ORD-50852,Metro-North,Apparel,Instant (15-30m),Gig Contractor,Clear,11.38,4.7,7.9,23.1,31.0,30,1,1,0,0
+ORD-50853,Suburban-West,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Extreme Heat,4.88,17.5,5.9,20.8,26.7,30,0,4,0,1
+ORD-50854,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Extreme Heat,1.67,17.5,8.8,15.3,24.1,30,0,4,1,0
+ORD-50855,Metro-North,Consumer Electronics,Same-Day,In-House Fleet,Clear,6.4,18.9,36.2,94.6,130.8,240,0,4,0,0
+ORD-50856,Metro-North,Beauty & Care,Standard 2-Day,In-House Fleet,Extreme Heat,1.49,29.5,116.3,1306.3,1422.6,2880,0,4,0,0
+ORD-50857,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Rain/Storm,2.59,8.8,11.2,24.3,35.5,30,1,1,1,1
+ORD-50858,Metro-South,Apparel,Same-Day,Dedicated 3PL,Clear,11.98,21.0,26.3,159.1,185.4,240,0,5,0,0
+ORD-50859,Metro-North,Fresh & Grocery,Same-Day,Dedicated 3PL,Clear,6.59,20.9,47.4,72.9,120.3,240,0,5,0,0
+ORD-50860,Suburban-East,Apparel,Standard 2-Day,In-House Fleet,Rain/Storm,3.55,38.8,153.2,1644.4,1797.6,2880,0,4,0,0
+ORD-50861,Metro-South,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Rain/Storm,11.94,3.8,12.6,19.8,32.4,30,1,3,1,0
+ORD-50862,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,11.61,13.5,44.6,99.9,144.5,240,0,5,0,1
+ORD-50863,Metro-South,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Rain/Storm,5.4,11.9,11.4,33.4,44.8,30,1,1,1,0
+ORD-50864,Metro-South,Apparel,Standard 2-Day,Dedicated 3PL,Clear,3.27,68.6,107.4,910.9,1018.3,2880,0,3,0,0
+ORD-50865,Metro-South,Apparel,Same-Day,Dedicated 3PL,Rain/Storm,10.09,25.7,28.4,221.0,249.4,240,1,1,0,1
+ORD-50866,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Extreme Heat,8.64,16.3,8.3,19.6,27.9,30,0,4,0,0
+ORD-50867,Metro-North,Apparel,Same-Day,In-House Fleet,Clear,8.31,34.7,43.4,182.1,225.5,240,0,4,0,0
+ORD-50868,Suburban-West,Consumer Electronics,Standard 2-Day,In-House Fleet,Rain/Storm,10.74,39.4,116.0,2200.1,2316.1,2880,0,5,0,0
+ORD-50869,Suburban-West,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,8.34,10.0,4.8,12.8,17.6,30,0,5,0,0
+ORD-50870,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,3.55,39.6,86.7,920.2,1006.9,2880,0,5,0,0
+ORD-50871,Metro-North,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,8.39,9.0,12.0,24.3,36.3,30,1,3,1,0
+ORD-50872,Metro-South,Consumer Electronics,Same-Day,Dedicated 3PL,Clear,3.81,24.2,19.9,126.6,146.5,240,0,5,0,0
+ORD-50873,Metro-South,Beauty & Care,Same-Day,Dedicated 3PL,Clear,9.16,19.2,33.0,91.3,124.3,240,0,3,0,0
+ORD-50874,Metro-North,Home & Kitchen,Same-Day,Dedicated 3PL,Clear,7.51,30.1,23.5,144.2,167.7,240,0,5,0,0
+ORD-50875,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,1.11,17.5,7.1,11.5,18.6,30,0,5,1,0
+ORD-50876,Suburban-East,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Clear,6.25,81.6,125.7,789.9,915.6,2880,0,4,1,0
+ORD-50877,Suburban-East,Consumer Electronics,Same-Day,Gig Contractor,Rain/Storm,4.25,31.7,50.7,9.7,60.4,240,0,3,0,0
+ORD-50878,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,4.08,23.2,23.2,108.8,132.0,240,0,5,0,0
+ORD-50879,Metro-North,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,7.31,55.5,176.0,1177.6,1353.6,2880,0,5,0,0
+ORD-50880,Metro-North,Beauty & Care,Standard 2-Day,In-House Fleet,Clear,4.0,60.4,77.8,1161.2,1239.0,2880,0,5,0,0
+ORD-50881,Suburban-East,Apparel,Instant (15-30m),In-House Fleet,Rain/Storm,9.37,8.3,10.0,19.1,29.1,30,0,4,0,0
+ORD-50882,Metro-North,Beauty & Care,Instant (15-30m),In-House Fleet,Extreme Heat,1.04,8.1,12.1,19.3,31.4,30,1,2,1,1
+ORD-50883,Metro-North,Apparel,Standard 2-Day,Gig Contractor,Extreme Heat,7.99,62.9,54.5,1422.6,1477.1,2880,0,3,0,0
+ORD-50884,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Rain/Storm,9.75,15.6,14.1,25.2,39.3,30,1,2,0,0
+ORD-50885,Metro-North,Consumer Electronics,Same-Day,Dedicated 3PL,Rain/Storm,8.14,27.2,32.5,115.5,148.0,240,0,4,0,0
+ORD-50886,Suburban-East,Home & Kitchen,Standard 2-Day,In-House Fleet,Clear,6.07,33.2,156.2,883.4,1039.6,2880,0,5,0,0
+ORD-50887,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,11.41,3.6,5.9,22.9,28.8,30,0,5,0,0
+ORD-50888,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Clear,3.74,27.3,17.4,139.5,156.9,240,0,5,1,0
+ORD-50889,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Rain/Storm,0.43,18.5,41.1,231.3,272.4,240,1,1,0,0
+ORD-50890,Suburban-East,Home & Kitchen,Same-Day,Dedicated 3PL,Extreme Heat,5.3,21.2,40.6,133.1,173.7,240,0,5,0,0
+ORD-50891,Suburban-West,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,0.59,13.5,6.3,13.7,20.0,30,0,4,0,0
+ORD-50892,Suburban-East,Home & Kitchen,Instant (15-30m),Gig Contractor,Extreme Heat,11.46,13.5,7.1,16.8,23.9,30,0,5,0,0
+ORD-50893,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,2.68,39.1,37.0,125.6,162.6,240,0,5,0,1
+ORD-50894,Suburban-East,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,9.51,47.9,112.9,1535.5,1648.4,2880,0,5,0,0
+ORD-50895,Metro-North,Home & Kitchen,Standard 2-Day,In-House Fleet,Clear,9.34,52.1,168.0,1973.7,2141.7,2880,0,4,0,0
+ORD-50896,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,2.77,12.7,18.7,138.7,157.4,240,0,4,0,1
+ORD-50897,Suburban-West,Fresh & Grocery,Instant (15-30m),Dedicated 3PL,Clear,7.53,14.5,9.1,20.0,29.1,30,0,5,0,0
+ORD-50898,Metro-North,Apparel,Same-Day,Dedicated 3PL,Clear,0.77,41.0,45.2,120.4,165.6,240,0,3,0,0
+ORD-50899,Metro-North,Home & Kitchen,Instant (15-30m),In-House Fleet,Clear,5.91,6.8,5.1,20.9,26.0,30,0,4,0,0
+ORD-50900,Metro-North,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,0.37,23.8,105.8,1852.7,1958.5,2880,0,4,0,0
+ORD-50901,Metro-North,Fresh & Grocery,Standard 2-Day,In-House Fleet,Rain/Storm,11.07,82.4,167.1,983.3,1150.4,2880,0,5,0,1
+ORD-50902,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Rain/Storm,11.72,43.3,52.8,118.0,170.8,240,0,3,1,0
+ORD-50903,Metro-South,Fresh & Grocery,Standard 2-Day,In-House Fleet,Extreme Heat,2.82,32.1,69.2,950.9,1020.1,2880,0,4,0,0
+ORD-50904,Metro-South,Apparel,Instant (15-30m),In-House Fleet,Clear,2.66,7.2,9.6,12.2,21.8,30,0,5,1,0
+ORD-50905,Suburban-West,Apparel,Same-Day,Gig Contractor,Clear,9.09,35.7,33.8,92.8,126.6,240,0,4,0,0
+ORD-50906,Suburban-East,Consumer Electronics,Instant (15-30m),Gig Contractor,Rain/Storm,3.19,17.8,4.8,38.3,43.1,30,1,2,1,0
+ORD-50907,Metro-North,Apparel,Standard 2-Day,Gig Contractor,Clear,10.76,24.9,167.9,887.6,1055.5,2880,0,4,0,1
+ORD-50908,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,6.97,8.8,14.0,23.2,37.2,30,1,1,1,0
+ORD-50909,Metro-South,Apparel,Same-Day,Gig Contractor,Clear,4.34,15.8,50.7,123.3,174.0,240,0,5,0,1
+ORD-50910,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,10.03,59.3,137.4,1258.4,1395.8,2880,0,4,0,0
+ORD-50911,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,6.02,16.6,12.1,12.2,24.3,30,0,5,0,0
+ORD-50912,Metro-South,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,10.96,11.9,11.9,14.8,26.7,30,0,4,0,1
+ORD-50913,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,11.15,60.8,173.9,1271.7,1445.6,2880,0,5,0,0
+ORD-50914,Metro-South,Fresh & Grocery,Same-Day,Gig Contractor,Clear,2.15,38.6,27.0,121.0,148.0,240,0,5,0,0
+ORD-50915,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,0.23,16.4,11.2,21.0,32.2,30,1,4,1,0
+ORD-50916,Metro-North,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,11.81,6.3,7.1,10.6,17.7,30,0,4,0,0
+ORD-50917,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,10.89,14.0,6.7,17.4,24.1,30,0,5,0,0
+ORD-50918,Suburban-East,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,0.85,66.9,160.0,1323.7,1483.7,2880,0,5,0,0
+ORD-50919,Metro-North,Home & Kitchen,Same-Day,In-House Fleet,Clear,10.03,19.7,27.8,148.7,176.5,240,0,5,0,0
+ORD-50920,Suburban-West,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,5.6,13.7,4.9,16.5,21.4,30,0,5,0,0
+ORD-50921,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,3.26,11.4,7.0,23.7,30.7,30,1,3,1,0
+ORD-50922,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,10.57,4.4,8.9,23.3,32.2,30,1,1,1,0
+ORD-50923,Suburban-East,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Clear,2.52,5.0,9.3,13.4,22.7,30,0,4,0,0
+ORD-50924,Metro-South,Beauty & Care,Same-Day,In-House Fleet,Extreme Heat,11.38,26.2,40.9,111.5,152.4,240,0,5,0,0
+ORD-50925,Metro-North,Home & Kitchen,Instant (15-30m),In-House Fleet,Clear,2.63,15.7,8.8,20.6,29.4,30,0,4,1,0
+ORD-50926,Metro-North,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,7.44,10.9,3.2,7.5,10.7,30,0,4,0,1
+ORD-50927,Metro-South,Beauty & Care,Same-Day,Gig Contractor,Clear,2.83,28.6,33.2,137.5,170.7,240,0,5,0,0
+ORD-50928,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,6.64,14.9,11.5,6.0,17.5,30,0,4,0,0
+ORD-50929,Metro-North,Home & Kitchen,Same-Day,Gig Contractor,Clear,8.27,30.5,33.2,175.8,209.0,240,0,5,0,0
+ORD-50930,Metro-North,Home & Kitchen,Same-Day,In-House Fleet,Clear,2.44,35.1,44.4,151.7,196.1,240,0,5,0,0
+ORD-50931,Suburban-East,Apparel,Same-Day,Dedicated 3PL,Rain/Storm,6.35,14.2,32.4,144.9,177.3,240,0,5,1,0
+ORD-50932,Suburban-West,Beauty & Care,Same-Day,Dedicated 3PL,Clear,5.73,31.0,55.0,95.9,150.9,240,0,4,0,1
+ORD-50933,Metro-South,Home & Kitchen,Same-Day,Gig Contractor,Clear,1.04,26.1,28.5,142.1,170.6,240,0,5,0,0
+ORD-50934,Metro-North,Beauty & Care,Standard 2-Day,Dedicated 3PL,Clear,9.86,56.9,157.5,1778.7,1936.2,2880,0,3,0,0
+ORD-50935,Metro-North,Fresh & Grocery,Same-Day,Gig Contractor,Rain/Storm,4.16,24.5,36.7,153.3,190.0,240,0,5,0,0
+ORD-50936,Metro-North,Fresh & Grocery,Same-Day,Gig Contractor,Clear,6.98,14.0,25.4,129.1,154.5,240,0,3,0,0
+ORD-50937,Suburban-West,Home & Kitchen,Standard 2-Day,Gig Contractor,Extreme Heat,6.27,42.3,151.2,1910.1,2061.3,2880,0,4,1,0
+ORD-50938,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,6.26,40.0,15.7,103.7,119.4,240,0,5,0,0
+ORD-50939,Metro-South,Beauty & Care,Instant (15-30m),Gig Contractor,Extreme Heat,1.47,9.6,9.4,22.9,32.3,30,1,1,0,0
+ORD-50940,Metro-North,Beauty & Care,Instant (15-30m),In-House Fleet,Extreme Heat,5.2,16.7,9.6,19.4,29.0,30,0,4,0,0
+ORD-50941,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,5.54,5.6,6.3,22.7,29.0,30,0,3,0,1
+ORD-50942,Suburban-East,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Clear,8.86,21.4,136.5,1135.9,1272.4,2880,0,4,0,0
+ORD-50943,Suburban-East,Beauty & Care,Same-Day,Gig Contractor,Clear,10.11,34.7,28.8,112.2,141.0,240,0,4,1,0
+ORD-50944,Metro-North,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,6.63,82.9,129.0,1085.4,1214.4,2880,0,5,0,0
+ORD-50945,Metro-North,Apparel,Same-Day,Dedicated 3PL,Rain/Storm,1.22,18.6,28.9,246.7,275.6,240,1,2,0,0
+ORD-50946,Metro-North,Apparel,Same-Day,Dedicated 3PL,Clear,2.99,24.0,32.6,155.3,187.9,240,0,3,0,0
+ORD-50947,Suburban-West,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,2.15,4.5,5.7,18.2,23.9,30,0,5,0,0
+ORD-50948,Suburban-West,Consumer Electronics,Same-Day,In-House Fleet,Clear,1.67,11.2,32.1,118.4,150.5,240,0,5,0,0
+ORD-50949,Metro-South,Beauty & Care,Same-Day,Dedicated 3PL,Extreme Heat,4.52,43.9,30.9,129.3,160.2,240,0,5,0,1
+ORD-50950,Metro-South,Beauty & Care,Standard 2-Day,Gig Contractor,Clear,2.91,67.6,153.9,1430.3,1584.2,2880,0,5,1,0
+ORD-50951,Suburban-East,Apparel,Instant (15-30m),Dedicated 3PL,Clear,2.78,4.7,11.6,16.6,28.2,30,0,5,0,1
+ORD-50952,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,0.85,17.2,31.3,137.7,169.0,240,0,4,0,0
+ORD-50953,Suburban-West,Beauty & Care,Same-Day,Gig Contractor,Extreme Heat,0.41,33.7,47.2,98.6,145.8,240,0,5,0,0
+ORD-50954,Metro-South,Beauty & Care,Same-Day,Gig Contractor,Clear,1.41,18.8,49.9,92.0,141.9,240,0,5,1,0
+ORD-50955,Metro-South,Beauty & Care,Same-Day,Dedicated 3PL,Clear,2.23,36.3,44.5,99.3,143.8,240,0,4,0,0
+ORD-50956,Metro-South,Apparel,Standard 2-Day,Dedicated 3PL,Clear,5.29,21.7,170.3,1338.2,1508.5,2880,0,5,0,0
+ORD-50957,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,6.22,4.6,5.2,19.7,24.9,30,0,5,0,0
+ORD-50958,Metro-North,Beauty & Care,Same-Day,Dedicated 3PL,Clear,1.86,24.1,35.8,173.3,209.1,240,0,4,0,1
+ORD-50959,Suburban-East,Home & Kitchen,Same-Day,In-House Fleet,Extreme Heat,5.21,17.3,21.0,144.0,165.0,240,0,4,0,1
+ORD-50960,Metro-North,Consumer Electronics,Standard 2-Day,Gig Contractor,Rain/Storm,4.23,59.3,100.1,2564.4,2664.5,2880,0,5,0,1
+ORD-50961,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,2.36,53.4,67.2,1253.9,1321.1,2880,0,5,0,0
+ORD-50962,Metro-North,Consumer Electronics,Instant (15-30m),Dedicated 3PL,Rain/Storm,0.28,3.5,14.7,17.2,31.9,30,1,2,1,0
+ORD-50963,Metro-South,Home & Kitchen,Instant (15-30m),Gig Contractor,Clear,5.71,3.8,9.4,13.3,22.7,30,0,3,0,0
+ORD-50964,Metro-North,Fresh & Grocery,Standard 2-Day,Dedicated 3PL,Rain/Storm,8.29,74.1,167.4,2431.6,2599.0,2880,0,4,0,0
+ORD-50965,Metro-South,Beauty & Care,Same-Day,Gig Contractor,Rain/Storm,2.87,41.5,25.4,111.4,136.8,240,0,3,0,0
+ORD-50966,Suburban-East,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,1.76,40.2,183.0,1201.3,1384.3,2880,0,5,0,0
+ORD-50967,Metro-North,Beauty & Care,Instant (15-30m),Dedicated 3PL,Rain/Storm,10.67,16.4,9.7,24.1,33.8,30,1,1,1,0
+ORD-50968,Metro-South,Apparel,Same-Day,Dedicated 3PL,Clear,3.45,40.7,46.9,112.0,158.9,240,0,4,0,1
+ORD-50969,Metro-South,Home & Kitchen,Standard 2-Day,Dedicated 3PL,Clear,2.84,35.9,127.9,775.0,902.9,2880,0,5,0,0
+ORD-50970,Suburban-East,Apparel,Standard 2-Day,In-House Fleet,Clear,10.31,42.2,138.8,1761.5,1900.3,2880,0,4,0,0
+ORD-50971,Suburban-West,Home & Kitchen,Instant (15-30m),Dedicated 3PL,Clear,9.84,4.5,9.2,22.1,31.3,30,1,2,1,0
+ORD-50972,Suburban-East,Home & Kitchen,Same-Day,Dedicated 3PL,Rain/Storm,5.49,15.5,37.6,103.8,141.4,240,0,5,0,0
+ORD-50973,Metro-North,Apparel,Same-Day,Gig Contractor,Extreme Heat,5.97,42.3,27.9,189.8,217.7,240,0,3,0,1
+ORD-50974,Metro-North,Fresh & Grocery,Instant (15-30m),Gig Contractor,Clear,2.77,14.7,8.6,5.9,14.5,30,0,5,0,0
+ORD-50975,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Rain/Storm,1.12,23.2,45.5,212.2,257.7,240,1,1,1,0
+ORD-50976,Metro-South,Beauty & Care,Same-Day,Dedicated 3PL,Rain/Storm,6.97,39.3,53.8,98.5,152.3,240,0,4,0,0
+ORD-50977,Metro-North,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,1.36,58.8,168.4,1417.9,1586.3,2880,0,5,0,0
+ORD-50978,Metro-South,Beauty & Care,Same-Day,Dedicated 3PL,Clear,5.5,42.3,47.7,112.6,160.3,240,0,5,0,1
+ORD-50979,Metro-South,Apparel,Instant (15-30m),Gig Contractor,Clear,11.3,17.5,10.0,15.8,25.8,30,0,5,0,0
+ORD-50980,Metro-North,Beauty & Care,Instant (15-30m),Dedicated 3PL,Clear,11.44,13.8,8.6,17.6,26.2,30,0,4,0,0
+ORD-50981,Suburban-East,Apparel,Same-Day,In-House Fleet,Extreme Heat,3.02,14.5,34.7,169.5,204.2,240,0,3,0,0
+ORD-50982,Metro-North,Beauty & Care,Instant (15-30m),Gig Contractor,Clear,7.56,10.0,5.6,13.5,19.1,30,0,4,0,0
+ORD-50983,Metro-North,Consumer Electronics,Standard 2-Day,In-House Fleet,Rain/Storm,5.79,38.0,52.1,1000.0,1052.1,2880,0,5,0,0
+ORD-50984,Suburban-East,Consumer Electronics,Instant (15-30m),Gig Contractor,Clear,10.53,4.0,6.7,11.2,17.9,30,0,3,0,0
+ORD-50985,Metro-South,Consumer Electronics,Standard 2-Day,Gig Contractor,Clear,3.4,22.7,175.6,1453.8,1629.4,2880,0,5,1,0
+ORD-50986,Suburban-East,Consumer Electronics,Standard 2-Day,In-House Fleet,Clear,0.24,63.2,90.4,1406.5,1496.9,2880,0,3,0,0
+ORD-50987,Metro-South,Consumer Electronics,Same-Day,Gig Contractor,Clear,2.12,10.3,29.5,82.4,111.9,240,0,5,0,0
+ORD-50988,Metro-North,Consumer Electronics,Standard 2-Day,In-House Fleet,Clear,4.32,89.3,118.6,1426.8,1545.4,2880,0,5,0,0
+ORD-50989,Suburban-East,Apparel,Standard 2-Day,Gig Contractor,Clear,3.93,24.8,107.2,1892.8,2000.0,2880,0,4,0,0
+ORD-50990,Suburban-East,Home & Kitchen,Same-Day,Gig Contractor,Clear,9.54,39.3,22.8,127.7,150.5,240,0,5,1,1
+ORD-50991,Suburban-East,Beauty & Care,Instant (15-30m),In-House Fleet,Clear,8.23,12.3,8.2,16.5,24.7,30,0,5,0,0
+ORD-50992,Metro-North,Consumer Electronics,Same-Day,Gig Contractor,Clear,3.73,44.5,43.4,159.6,203.0,240,0,4,0,0
+ORD-50993,Metro-South,Apparel,Same-Day,In-House Fleet,Rain/Storm,5.6,41.1,27.1,100.1,127.2,240,0,4,0,0
+ORD-50994,Metro-South,Apparel,Standard 2-Day,In-House Fleet,Clear,1.33,50.2,118.7,1971.1,2089.8,2880,0,5,0,0
+ORD-50995,Metro-North,Apparel,Same-Day,Gig Contractor,Clear,10.8,26.4,23.9,89.7,113.6,240,0,5,0,0
+ORD-50996,Suburban-West,Home & Kitchen,Standard 2-Day,Gig Contractor,Clear,11.24,21.2,183.3,1153.0,1336.3,2880,0,5,0,0
+ORD-50997,Metro-North,Beauty & Care,Same-Day,Gig Contractor,Clear,11.76,10.4,28.3,53.5,81.8,240,0,4,0,0
+ORD-50998,Suburban-West,Home & Kitchen,Instant (15-30m),Gig Contractor,Extreme Heat,10.45,7.1,6.5,18.7,25.2,30,0,5,0,0
+ORD-50999,Metro-South,Fresh & Grocery,Standard 2-Day,Gig Contractor,Clear,2.25,78.2,139.2,1119.6,1258.8,2880,0,4,0,0
